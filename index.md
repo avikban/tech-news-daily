@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 11, 2026
+# 🚀 Daily Tech Pulse: September 12, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Xanadu and AMD Launch Open-Source Backline Extension for PennyLane](https://quantumcomputingreport.com/xanadu-and-amd-launch-open-source-backline-extension-for-pennylane/)** 
-  _Thu, 10 Sep 2026 20:01:36 +0000_
+* **[Qubic Secures CA$1.5 Million ($1.08 Million USD) Canadian Federal Contract for Cryogenic Amplifiers](https://quantumcomputingreport.com/qubic-secures-ca1-5-million-1-08-million-usd-canadian-federal-contract-for-cryogenic-amplifiers/)** 
+  _Sat, 12 Sep 2026 00:13:44 +0000_
 
-* **[IBM Ventures Leads $8 Million Investment in BQP to Scale Quantum-Accelerated Physics Simulation](https://quantumcomputingreport.com/ibm-ventures-leads-8-million-investment-in-bqp-to-scale-quantum-accelerated-physics-simulation/)** 
-  _Thu, 10 Sep 2026 19:26:20 +0000_
+* **[SEALSQ Reports H1 2026 Financial Results: Revenue Surges 131% to $11.2M, $486M Cash Balance, and Post-Quantum Hardware Progress](https://quantumcomputingreport.com/sealsq-reports-h1-2026-financial-results-revenue-surges-131-to-11-2m-486m-cash-balance-and-post-quantum-hardware-progress/)** 
+  _Fri, 11 Sep 2026 23:43:21 +0000_
 
-* **[Qilimanjaro Quantum Tech Releases QiliSDK v0.3.0 with GPU-Accelerated Analog Simulation and Python 3.14 Support](https://quantumcomputingreport.com/qilimanjaro-quantum-tech-releases-qilisdk-v0-3-0-with-gpu-accelerated-analog-simulation-and-python-3-14-support/)** 
-  _Thu, 10 Sep 2026 18:45:40 +0000_
+* **[Chicago State University Launches CQuEST Center to Anchor South Side Quantum Workforce Pipeline](https://quantumcomputingreport.com/chicago-state-university-launches-cquest-center-to-anchor-south-side-quantum-workforce-pipeline/)** 
+  _Fri, 11 Sep 2026 23:13:25 +0000_
 
-* **[Researchers Send Twin Photons 7 Kilometers Across Brazil’s Guanabara Bay](https://thequantuminsider.com/2026/09/10/researchers-send-twin-photons-7-kilometers-across-brazils-guanabara-bay/)** 
-  _Thu, 10 Sep 2026 17:16:29 +0000_
+* **[SEALSQ Reports 131% Revenue Growth in H1 2026](https://thequantuminsider.com/2026/09/11/sealsq-h1-2026-results-fy2026-guidance/)** 
+  _Fri, 11 Sep 2026 14:20:31 +0000_
 
-* **[Altera and Riverlane Partner to Bring Quantum Error Correction Support to Agilex FPGAs](https://thequantuminsider.com/2026/09/10/altera-riverlane-partner-bring-quantum-error-correction-support-agilex-fpgas/)** 
-  _Thu, 10 Sep 2026 15:50:45 +0000_
+* **[Stevens Researchers Take Step Toward More Precise, Practical Quantum Technologies](https://thequantuminsider.com/2026/09/11/stevens-researchers-lower-intensity-quantum-control/)** 
+  _Fri, 11 Sep 2026 13:44:18 +0000_
 
-* **[Infleqtion and Cisco Collaborate on Quantum Networking Research](https://thequantuminsider.com/2026/09/10/infleqtion-cisco-networked-quantum-systems/)** 
-  _Thu, 10 Sep 2026 13:46:50 +0000_
+* **[The Quantum Insider Launches Datasets, Analyst-Verified Quantum Market Information](https://thequantuminsider.com/2026/09/11/the-quantum-insider-launches-datasets-analyst-verified-quantum-market-information/)** 
+  _Fri, 11 Sep 2026 13:15:42 +0000_
 
 ---
