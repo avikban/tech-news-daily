@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 14, 2026
+# 🚀 Daily Tech Pulse: September 15, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[GÉANT and Quantum Internet Alliance Partner to Advance European Quantum Networking Architecture](https://quantumcomputingreport.com/geant-and-quantum-internet-alliance-partner-to-advance-european-quantum-networking-architecture/)** 
-  _Sat, 12 Sep 2026 23:03:31 +0000_
+* **[Podcast with Sumit Kapur, CEO of Zapata Quantum](https://quantumcomputingreport.com/podcast-with-sumit-kapur-ceo-of-zapata-quantum/)** 
+  _Mon, 14 Sep 2026 20:40:56 +0000_
 
-* **[Qoro Quantum Signs MoU with STFC Hartree Centre to Build UK Quantum-HPC Demonstrator](https://quantumcomputingreport.com/qoro-quantum-signs-mou-with-stfc-hartree-centre-to-build-uk-quantum-hpc-demonstrator/)** 
-  _Sat, 12 Sep 2026 01:46:42 +0000_
+* **[Photonic Inc. Unveils Project VANGUARD Proposal for CA$500M (US$359.1M) Semiconductor Facility in Canada](https://quantumcomputingreport.com/photonic-inc-unveils-project-vanguard-proposal-for-ca500m-us359-1m-semiconductor-facility-in-canada/)** 
+  _Mon, 14 Sep 2026 15:28:53 +0000_
 
-* **[Who’s News: Strategic Appointments at Q.ANT, Qtonic Quantum, QuantrolOx, and Leiden Cryogenics](https://quantumcomputingreport.com/whos-news-strategic-appointments-at-q-ant-qtonic-quantum-quantrolox-and-leiden-cryogenics/)** 
-  _Sat, 12 Sep 2026 01:06:18 +0000_
+* **[Rigetti Researchers Demonstrate Qubit-Efficient Optimization Algorithm on Superconducting Hardware](https://quantumcomputingreport.com/rigetti-researchers-demonstrate-qubit-efficient-optimization-algorithm-on-superconducting-hardware/)** 
+  _Mon, 14 Sep 2026 15:00:08 +0000_
 
-* **[Klea Dhmitri (Hamamatsu): Photonics as the hidden backbone of quantum hardware scaling](https://thequantuminsider.com/2026/09/12/klea-dhmitri-hamamatsu-photonics-as-the-hidden-backbone-of-quantum-hardware-scaling/)** 
-  _Sat, 12 Sep 2026 07:00:00 +0000_
+* **[Oxford Quantum Startup Cloq Wins Top Prize at Reuben Entrepreneurship Forum](https://thequantuminsider.com/2026/09/14/oxford-quantum-startup-cloq-top-prize-reuben-entrepreneurship-forum/)** 
+  _Mon, 14 Sep 2026 16:30:05 +0000_
 
-* **[SEALSQ Reports 131% Revenue Growth in H1 2026](https://thequantuminsider.com/2026/09/11/sealsq-h1-2026-results-fy2026-guidance/)** 
-  _Fri, 11 Sep 2026 14:20:31 +0000_
+* **[Quandela Publishes White Paper on Photonic QPU Integration With NVIDIA Infrastructure](https://thequantuminsider.com/2026/09/14/quandela-white-paper-photonic-qpu-nvidia-infrastructure/)** 
+  _Mon, 14 Sep 2026 16:21:33 +0000_
 
-* **[Stevens Researchers Take Step Toward More Precise, Practical Quantum Technologies](https://thequantuminsider.com/2026/09/11/stevens-researchers-lower-intensity-quantum-control/)** 
-  _Fri, 11 Sep 2026 13:44:18 +0000_
+* **[NSF Launches $20M Pilot for Deep-Tech Commercialization](https://thequantuminsider.com/2026/09/14/nsf-20m-pilot-deep-tech-commercialization/)** 
+  _Mon, 14 Sep 2026 14:52:07 +0000_
 
 ---
