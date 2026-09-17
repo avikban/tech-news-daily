@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 16, 2026
+# 🚀 Daily Tech Pulse: September 17, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Q*Bird becomes Falqon® Systems, Building the Infrastructure for Quantum Secure Networks](https://thequantuminsider.com/2026/09/15/qbird-becomes-falqon-systems-quantum-secure-networks/)** 
-  _Tue, 15 Sep 2026 17:41:23 +0000_
+* **[CSIC Inaugurates Spain’s Quantum Nanofabrication Area at IMB-CNM in Barcelona](https://quantumcomputingreport.com/csic-inaugurates-spains-quantum-nanofabrication-area-at-imb-cnm-in-barcelona/)** 
+  _Wed, 16 Sep 2026 19:32:53 +0000_
 
-* **[Oracle Java 27 Adds Post-Quantum Hybrid Key Exchange for TLS 1.3](https://thequantuminsider.com/2026/09/15/oracle-java-27-post-quantum-cryptography-support/)** 
-  _Tue, 15 Sep 2026 16:54:35 +0000_
+* **[IonQ, ORNL, NVIDIA, and UT Knoxville Advance AI-Driven Generative Quantum Circuit Synthesis](https://quantumcomputingreport.com/ionq-ornl-nvidia-and-ut-knoxville-advance-ai-driven-generative-quantum-circuit-synthesis/)** 
+  _Wed, 16 Sep 2026 19:04:43 +0000_
 
-* **[Iceberg Quantum and Diraq Demonstrate Pinnacle qLDPC Architecture on Spin Qubits](https://thequantuminsider.com/2026/09/15/iceberg-quantum-diraq-pinnacle-spin-qubit-hardware/)** 
-  _Tue, 15 Sep 2026 15:20:25 +0000_
+* **[Oxford Quantum Circuits and Trust Base Benchmark Hybrid Quantum Workloads for Financial Risk Modeling](https://quantumcomputingreport.com/oxford-quantum-circuits-and-trust-base-benchmark-hybrid-quantum-workloads-for-financial-risk-modeling/)** 
+  _Wed, 16 Sep 2026 18:49:56 +0000_
+
+* **[Gold’s Quantum Moment](https://thequantuminsider.com/2026/09/16/golds-quantum-moment/)** 
+  _Wed, 16 Sep 2026 20:41:28 +0000_
+
+* **[IonQ and ORNL Demonstrate Generative AI for Quantum Optimization](https://thequantuminsider.com/2026/09/16/ionq-ornl-nvidia-tennessee-ai-quantum-optimization-tradeoff/)** 
+  _Wed, 16 Sep 2026 17:07:40 +0000_
+
+* **[Quobly Demonstrates Key Quantum Operations on 300 mm Silicon Chip](https://thequantuminsider.com/2026/09/16/quobly-key-quantum-operations-industrial-silicon-chip/)** 
+  _Wed, 16 Sep 2026 14:09:12 +0000_
 
 ---
