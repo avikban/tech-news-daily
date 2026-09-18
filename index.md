@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 17, 2026
+# 🚀 Daily Tech Pulse: September 18, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[CSIC Inaugurates Spain’s Quantum Nanofabrication Area at IMB-CNM in Barcelona](https://quantumcomputingreport.com/csic-inaugurates-spains-quantum-nanofabrication-area-at-imb-cnm-in-barcelona/)** 
-  _Wed, 16 Sep 2026 19:32:53 +0000_
+* **[DOE Launches $215M Quantum Genesis Q Competition and $45M V&V Lab Call](https://quantumcomputingreport.com/doe-launches-215m-quantum-genesis-q-competition-and-45m-vv-lab-call/)** 
+  _Thu, 17 Sep 2026 23:01:28 +0000_
 
-* **[IonQ, ORNL, NVIDIA, and UT Knoxville Advance AI-Driven Generative Quantum Circuit Synthesis](https://quantumcomputingreport.com/ionq-ornl-nvidia-and-ut-knoxville-advance-ai-driven-generative-quantum-circuit-synthesis/)** 
-  _Wed, 16 Sep 2026 19:04:43 +0000_
+* **[Oracle Launches Java 27 Featuring Hybrid Post-Quantum Cryptography for TLS 1.3](https://quantumcomputingreport.com/oracle-launches-java-27-featuring-hybrid-post-quantum-cryptography-for-tls-1-3/)** 
+  _Thu, 17 Sep 2026 05:28:24 +0000_
 
-* **[Oxford Quantum Circuits and Trust Base Benchmark Hybrid Quantum Workloads for Financial Risk Modeling](https://quantumcomputingreport.com/oxford-quantum-circuits-and-trust-base-benchmark-hybrid-quantum-workloads-for-financial-risk-modeling/)** 
-  _Wed, 16 Sep 2026 18:49:56 +0000_
+* **[QuTech Spinout Q*Bird Rebrands to Falqon Systems to Commercialize Quantum Secure Networks](https://quantumcomputingreport.com/qutech-spinout-qbird-rebrands-to-falqon-systems-to-commercialize-quantum-secure-networks/)** 
+  _Thu, 17 Sep 2026 05:01:03 +0000_
 
-* **[Gold’s Quantum Moment](https://thequantuminsider.com/2026/09/16/golds-quantum-moment/)** 
-  _Wed, 16 Sep 2026 20:41:28 +0000_
+* **[TQI and Tesseract Quantum Partner for The Quantum Kid](https://thequantuminsider.com/2026/09/17/tqi-and-tesseract-quantum-partner-for-the-quantum-kid/)** 
+  _Thu, 17 Sep 2026 19:22:08 +0000_
 
-* **[IonQ and ORNL Demonstrate Generative AI for Quantum Optimization](https://thequantuminsider.com/2026/09/16/ionq-ornl-nvidia-tennessee-ai-quantum-optimization-tradeoff/)** 
-  _Wed, 16 Sep 2026 17:07:40 +0000_
+* **[Guest Post: Why AI Agent Identities Need Post-Quantum Cryptography](https://thequantuminsider.com/2026/09/17/post-quantum-security-ai-agent-economy/)** 
+  _Thu, 17 Sep 2026 16:32:36 +0000_
 
-* **[Quobly Demonstrates Key Quantum Operations on 300 mm Silicon Chip](https://thequantuminsider.com/2026/09/16/quobly-key-quantum-operations-industrial-silicon-chip/)** 
-  _Wed, 16 Sep 2026 14:09:12 +0000_
+* **[IonQ and Synopsys Report Up to 14.6% Faster Engineering Simulations](https://thequantuminsider.com/2026/09/17/ionq-synopsys-14-6-percent-faster-engineering-simulations/)** 
+  _Thu, 17 Sep 2026 16:22:51 +0000_
 
 ---
