@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 20, 2026
+# 🚀 Daily Tech Pulse: September 21, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,6 +13,15 @@
 
 ---
 ## Quantum Updates
+* **[Who’s News: Strategic Appointments at Quantum Motion, SQC, Lawrence Semiconductor, and Pasqal](https://quantumcomputingreport.com/whos-news-strategic-appointments-at-quantum-motion-sqc-lawrence-semiconductor-and-pasqal/)** 
+  _Sun, 20 Sep 2026 00:38:53 +0000_
+
+* **[IBM Research Demonstrates Hybrid Spacetime PEC to Reduce Error-Mitigation Sampling Overhead by 63×](https://quantumcomputingreport.com/ibm-research-demonstrates-hybrid-spacetime-pec-to-reduce-error-mitigation-sampling-overhead-by-63x/)** 
+  _Sun, 20 Sep 2026 00:22:32 +0000_
+
+* **[University of Pennsylvania Demonstrates Single-Gate Parallel Entanglement on Room-Temperature Diamond Quantum Register](https://quantumcomputingreport.com/university-of-pennsylvania-demonstrates-single-gate-parallel-entanglement-on-room-temperature-diamond-quantum-register/)** 
+  _Sat, 19 Sep 2026 23:53:12 +0000_
+
 * **[DOE Panel Ties Future National Quantum Facility to Proof of Scientific Use](https://thequantuminsider.com/2026/09/19/doe-panel-ties-future-national-quantum-facility-to-proof-of-scientific-use/)** 
   _Sat, 19 Sep 2026 13:12:16 +0000_
 
