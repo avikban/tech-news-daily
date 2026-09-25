@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 24, 2026
+# 🚀 Daily Tech Pulse: September 25, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[CGI And D-Wave Quantum Partner to Advance Enterprise Quantum Adoption](https://thequantuminsider.com/2026/09/23/d-wave-quantum-partner-to-advance-enterprise-quantum-adoption/)** 
-  _Wed, 23 Sep 2026 18:03:59 +0000_
+* **[Mesa Quantum Raises $11.8 Million to Scale Quantum Timing Systems](https://thequantuminsider.com/2026/09/24/mesa-quantum-raises-11-8-million-quantum-sensing/)** 
+  _Thu, 24 Sep 2026 17:39:07 +0000_
 
-* **[Qunnect Publishes Research on Quantum Security Beyond QKD](https://thequantuminsider.com/2026/09/23/qunnect-quantum-security-beyond-qkd/)** 
-  _Wed, 23 Sep 2026 17:11:37 +0000_
+* **[memQ Releases Open-Source Distributed Quantum Compiler](https://thequantuminsider.com/2026/09/24/memq-open-source-distributed-quantum-compiler/)** 
+  _Thu, 24 Sep 2026 14:43:05 +0000_
 
-* **[German Government Selects QUDORA-Led Consortium For €122 Million Project](https://thequantuminsider.com/2026/09/23/german-government-selects-qudora-led-consortium-for-e122-million-project/)** 
-  _Wed, 23 Sep 2026 13:29:23 +0000_
+* **[Oxford Quantum Circuits Appoints Simon Phillips as Chief Product Officer](https://thequantuminsider.com/2026/09/24/oqc-simon-phillips-chief-product-officer/)** 
+  _Thu, 24 Sep 2026 14:33:34 +0000_
 
 ---
