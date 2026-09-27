@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 26, 2026
+# 🚀 Daily Tech Pulse: September 27, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[European Commission Approves eCAUSIS Results as Creotech Quantum Prepares QKD System for Commercial Rollout](https://quantumcomputingreport.com/european-commission-approves-ecausis-results-as-creotech-quantum-prepares-qkd-system-for-commercial-rollout/)** 
-  _Fri, 25 Sep 2026 16:58:36 +0000_
+* **[Who’s News: Strategic Appointments at D-Wave Quantum, Oxford Quantum Circuits, and Bifrost Electronics](https://quantumcomputingreport.com/whos-news-strategic-appointments-at-d-wave-quantum-oxford-quantum-circuits-and-bifrost-electronics/)** 
+  _Sat, 26 Sep 2026 09:54:59 +0000_
 
-* **[Creotech Quantum Wins €2.33M ($2.66M USD) ESA Contract for Space-Grade Quantum Detectors](https://quantumcomputingreport.com/creotech-quantum-wins-e2-33m-2-66m-usd-esa-contract-for-space-grade-quantum-detectors/)** 
-  _Fri, 25 Sep 2026 16:36:56 +0000_
+* **[ETSI Identifies Technical Limitations and Implementation Vulnerabilities in Quantum Random Number Generators (ETSI TR 104 171)](https://quantumcomputingreport.com/etsi-identifies-technical-limitations-and-implementation-vulnerabilities-in-quantum-random-number-generators-etsi-tr-104-171/)** 
+  _Sat, 26 Sep 2026 09:38:41 +0000_
 
-* **[UTM Technovation Park Becomes R&D Base for AQSolotl, Malaysia’s First Quantum Computing Hardware Company](https://quantumcomputingreport.com/utm-technovation-park-becomes-rd-base-for-aqsolotl-malaysias-first-quantum-computing-hardware-company/)** 
-  _Fri, 25 Sep 2026 16:08:17 +0000_
+* **[Pasqal Reports H1 2026 Financial Results: €312.9M Post-SPAC Cash Balance, 14% Revenue Growth, and 1,000-Atom Scale](https://quantumcomputingreport.com/pasqal-reports-h1-2026-financial-results-e312-9m-post-spac-cash-balance-14-revenue-growth-and-1000-atom-scale/)** 
+  _Sat, 26 Sep 2026 07:12:38 +0000_
+
+* **[Sebastian Hassinger (The New Quantum Era): why neutral atoms lead the qubit race for now](https://thequantuminsider.com/2026/09/26/sebastian-hassinger-the-new-quantum-era-why-neutral-atoms-lead-the-qubit-race-for-now/)** 
+  _Sat, 26 Sep 2026 19:00:00 +0000_
+
+* **[MANA Reveals Atomic-Scale Rails for Guiding Superconducting Vortices](https://thequantuminsider.com/2026/09/26/mana-reveals-atomic-scale-rails-for-guiding-superconducting-vortices/)** 
+  _Sat, 26 Sep 2026 13:46:41 +0000_
 
 * **[Fairfax County Schools Plans Quantum Computer Program at High School](https://thequantuminsider.com/2026/09/25/fairfax-county-schools-quantum-computer-high-school/)** 
   _Fri, 25 Sep 2026 17:04:22 +0000_
-
-* **[Creotech Quantum Prepares QKD System for Commercialization](https://thequantuminsider.com/2026/09/25/creotech-quantum-qkd-system-commercialization/)** 
-  _Fri, 25 Sep 2026 13:14:34 +0000_
-
-* **[Guest Post: Quantum Investment May Start With Post-Quantum Security](https://thequantuminsider.com/2026/09/25/quantum-investment-post-quantum-security/)** 
-  _Fri, 25 Sep 2026 12:24:49 +0000_
 
 ---
