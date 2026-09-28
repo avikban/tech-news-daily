@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 27, 2026
+# 🚀 Daily Tech Pulse: September 28, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,15 +13,6 @@
 
 ---
 ## Quantum Updates
-* **[Who’s News: Strategic Appointments at D-Wave Quantum, Oxford Quantum Circuits, and Bifrost Electronics](https://quantumcomputingreport.com/whos-news-strategic-appointments-at-d-wave-quantum-oxford-quantum-circuits-and-bifrost-electronics/)** 
-  _Sat, 26 Sep 2026 09:54:59 +0000_
-
-* **[ETSI Identifies Technical Limitations and Implementation Vulnerabilities in Quantum Random Number Generators (ETSI TR 104 171)](https://quantumcomputingreport.com/etsi-identifies-technical-limitations-and-implementation-vulnerabilities-in-quantum-random-number-generators-etsi-tr-104-171/)** 
-  _Sat, 26 Sep 2026 09:38:41 +0000_
-
-* **[Pasqal Reports H1 2026 Financial Results: €312.9M Post-SPAC Cash Balance, 14% Revenue Growth, and 1,000-Atom Scale](https://quantumcomputingreport.com/pasqal-reports-h1-2026-financial-results-e312-9m-post-spac-cash-balance-14-revenue-growth-and-1000-atom-scale/)** 
-  _Sat, 26 Sep 2026 07:12:38 +0000_
-
 * **[Sebastian Hassinger (The New Quantum Era): why neutral atoms lead the qubit race for now](https://thequantuminsider.com/2026/09/26/sebastian-hassinger-the-new-quantum-era-why-neutral-atoms-lead-the-qubit-race-for-now/)** 
   _Sat, 26 Sep 2026 19:00:00 +0000_
 
