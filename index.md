@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 28, 2026
+# 🚀 Daily Tech Pulse: September 29, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Sebastian Hassinger (The New Quantum Era): why neutral atoms lead the qubit race for now](https://thequantuminsider.com/2026/09/26/sebastian-hassinger-the-new-quantum-era-why-neutral-atoms-lead-the-qubit-race-for-now/)** 
-  _Sat, 26 Sep 2026 19:00:00 +0000_
+* **[Donate & Join Us! Trick, Treat, and Quantum Physics: Kai Brings Halloween to ETH Zürich](https://thequantuminsider.com/2026/09/28/donate-join-us-trick-treat-and-quantum-physics-kai-brings-halloween-to-eth-zurich/)** 
+  _Mon, 28 Sep 2026 16:21:41 +0000_
 
-* **[MANA Reveals Atomic-Scale Rails for Guiding Superconducting Vortices](https://thequantuminsider.com/2026/09/26/mana-reveals-atomic-scale-rails-for-guiding-superconducting-vortices/)** 
-  _Sat, 26 Sep 2026 13:46:41 +0000_
+* **[FSU Receives $2.1 Million for Quantum Communication Testbed](https://thequantuminsider.com/2026/09/28/fsu-2-1-million-quantum-communication-testbed/)** 
+  _Mon, 28 Sep 2026 15:54:32 +0000_
 
-* **[Fairfax County Schools Plans Quantum Computer Program at High School](https://thequantuminsider.com/2026/09/25/fairfax-county-schools-quantum-computer-high-school/)** 
-  _Fri, 25 Sep 2026 17:04:22 +0000_
+* **[India’s Finance Minister Places Quantum Among Next Major Infrastructure Investment Priorities](https://thequantuminsider.com/2026/09/28/indias-finance-minister-places-quantum-among-next-major-infrastructure-investment-priorities/)** 
+  _Mon, 28 Sep 2026 14:06:47 +0000_
 
 ---
