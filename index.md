@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 01, 2026
+# 🚀 Daily Tech Pulse: October 02, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Charles Black Leads C2QA Research on Scalable Quantum Computing](https://thequantuminsider.com/2026/09/30/charles-black-c2qa-scalable-quantum-computing/)** 
-  _Wed, 30 Sep 2026 13:30:11 +0000_
+* **[How a Large IT Consulting Company Works with Quantum](https://quantumcomputingreport.com/how-a-large-it-consulting-company-works-with-quantum/)** 
+  _Fri, 02 Oct 2026 00:24:00 +0000_
 
-* **[New Report Positions Florida as an Emerging Leader in Defense-Led Quantum Technology](https://thequantuminsider.com/2026/09/30/new-report-positions-florida-as-an-emerging-leader-in-defense-led-quantum-technology/)** 
-  _Wed, 30 Sep 2026 13:02:43 +0000_
+* **[Unitary Foundation Launches Its 2026 Quantum Open Source Software Survey](https://quantumcomputingreport.com/unitary-foundation-launches-2026-quantum-open-source-software-survey/)** 
+  _Thu, 01 Oct 2026 22:06:13 +0000_
 
-* **[Classiq Introduces Fault Tolerance Engine for Quantum Applications](https://thequantuminsider.com/2026/09/30/classiq-fault-tolerance-engine-quantum-applications-hardware/)** 
-  _Wed, 30 Sep 2026 12:01:16 +0000_
+* **[D-Wave Launches Gate-Model Simulator Beta Program Featuring 21-Qubit Dual-Rail Erasure Emulation](https://quantumcomputingreport.com/d-wave-launches-gate-model-simulator-beta-program-featuring-21-qubit-dual-rail-erasure-emulation/)** 
+  _Thu, 01 Oct 2026 15:16:22 +0000_
+
+* **[Quanome CEO to Back Quantum Strategy with Up to $15 Million in Non-Dilutive Growth Capital](https://thequantuminsider.com/2026/10/01/quanome-ceo-15-million-growth-capital/)** 
+  _Thu, 01 Oct 2026 16:37:34 +0000_
+
+* **[Quantum Renaissance to Convene Global Quantum Leaders in Florence in April 2027](https://thequantuminsider.com/2026/10/01/quantum-renaissance-to-convene-global-quantum-leaders-in-florence-in-april-2027/)** 
+  _Thu, 01 Oct 2026 16:31:28 +0000_
+
+* **[Pasqal Appoints Florence Lao as Chief Legal Officer](https://thequantuminsider.com/2026/10/01/pasqal-appoints-florence-lao-chief-legal-officer/)** 
+  _Thu, 01 Oct 2026 13:20:15 +0000_
 
 ---
