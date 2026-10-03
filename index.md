@@ -1,34 +1,34 @@
-# 🚀 Daily Tech Pulse: October 02, 2026
+# 🚀 Daily Tech Pulse: October 03, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
+* **[Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control](https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE)** 
+  _Fri, 02 Oct 2026 10:00:03 +0000_
+
 * **[Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog](https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32)** 
   _Tue, 29 Sep 2026 10:00:06 +0000_
 
 * **[EU Tech Push Boosts Ultrafast Laser Startups](https://spectrum.ieee.org/ultrafast-lasers-europe)** 
   _Wed, 23 Sep 2026 13:00:04 +0000_
 
-* **[How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip](https://spectrum.ieee.org/llms-for-chip-design)** 
-  _Mon, 14 Sep 2026 14:06:31 +0000_
-
 ---
 ## Quantum Updates
-* **[How a Large IT Consulting Company Works with Quantum](https://quantumcomputingreport.com/how-a-large-it-consulting-company-works-with-quantum/)** 
-  _Fri, 02 Oct 2026 00:24:00 +0000_
+* **[US Department of Energy Releases National Quantum Roadmap Establishing 2028 Fault-Tolerance Milestones](https://quantumcomputingreport.com/us-department-of-energy-releases-national-quantum-roadmap-establishing-2028-fault-tolerance-milestones/)** 
+  _Fri, 02 Oct 2026 11:43:55 +0000_
 
-* **[Unitary Foundation Launches Its 2026 Quantum Open Source Software Survey](https://quantumcomputingreport.com/unitary-foundation-launches-2026-quantum-open-source-software-survey/)** 
-  _Thu, 01 Oct 2026 22:06:13 +0000_
+* **[Fermilab SQMS Center Identifies Microscopic Origins of Qubit Performance Variance Across Superconducting Transmons](https://quantumcomputingreport.com/fermilab-sqms-center-identifies-microscopic-origins-of-qubit-performance-variance-across-superconducting-transmons/)** 
+  _Fri, 02 Oct 2026 11:22:14 +0000_
 
-* **[D-Wave Launches Gate-Model Simulator Beta Program Featuring 21-Qubit Dual-Rail Erasure Emulation](https://quantumcomputingreport.com/d-wave-launches-gate-model-simulator-beta-program-featuring-21-qubit-dual-rail-erasure-emulation/)** 
-  _Thu, 01 Oct 2026 15:16:22 +0000_
+* **[ORNL Develops LuGo Algorithm on Frontier Supercomputer, Reducing Quantum Circuit Gate Counts by 95% for Computational Fluid Dynamics](https://quantumcomputingreport.com/ornl-develops-lugo-algorithm-on-frontier-supercomputer-reducing-quantum-circuit-gate-counts-by-95-for-computational-fluid-dynamics/)** 
+  _Fri, 02 Oct 2026 11:02:55 +0000_
 
-* **[Quanome CEO to Back Quantum Strategy with Up to $15 Million in Non-Dilutive Growth Capital](https://thequantuminsider.com/2026/10/01/quanome-ceo-15-million-growth-capital/)** 
-  _Thu, 01 Oct 2026 16:37:34 +0000_
+* **[Quantum in Business Conference Highlights Commercial Quantum Applications](https://thequantuminsider.com/2026/10/02/quantum-in-business-commercial-quantum-applications/)** 
+  _Fri, 02 Oct 2026 16:02:55 +0000_
 
-* **[Quantum Renaissance to Convene Global Quantum Leaders in Florence in April 2027](https://thequantuminsider.com/2026/10/01/quantum-renaissance-to-convene-global-quantum-leaders-in-florence-in-april-2027/)** 
-  _Thu, 01 Oct 2026 16:31:28 +0000_
+* **[QEst Hack Invites Participants to Test Quantum Algorithms on Real Business Problems](https://thequantuminsider.com/2026/10/02/qest-hack-invites-participants-to-test-quantum-algorithms-on-real-business-problems/)** 
+  _Fri, 02 Oct 2026 15:56:20 +0000_
 
-* **[Pasqal Appoints Florence Lao as Chief Legal Officer](https://thequantuminsider.com/2026/10/01/pasqal-appoints-florence-lao-chief-legal-officer/)** 
-  _Thu, 01 Oct 2026 13:20:15 +0000_
+* **[New Method Generates Photons That Are Virtually Indistinguishable](https://thequantuminsider.com/2026/10/02/new-method-generates-photons-that-are-virtually-indistinguishable/)** 
+  _Fri, 02 Oct 2026 15:28:15 +0000_
 
 ---
