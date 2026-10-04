@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 03, 2026
+# 🚀 Daily Tech Pulse: October 04, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[US Department of Energy Releases National Quantum Roadmap Establishing 2028 Fault-Tolerance Milestones](https://quantumcomputingreport.com/us-department-of-energy-releases-national-quantum-roadmap-establishing-2028-fault-tolerance-milestones/)** 
-  _Fri, 02 Oct 2026 11:43:55 +0000_
+* **[Who’s News: Strategic Appointments at Quantum eMotion, Pasqal, Royal Bank of Canada, and 01 Quantum Inc.](https://quantumcomputingreport.com/whos-news-strategic-appointments-at-quantum-emotion-pasqal-royal-bank-of-canada-and-01-quantum-inc/)** 
+  _Sat, 03 Oct 2026 11:27:00 +0000_
 
-* **[Fermilab SQMS Center Identifies Microscopic Origins of Qubit Performance Variance Across Superconducting Transmons](https://quantumcomputingreport.com/fermilab-sqms-center-identifies-microscopic-origins-of-qubit-performance-variance-across-superconducting-transmons/)** 
-  _Fri, 02 Oct 2026 11:22:14 +0000_
+* **[Silicon Quantum Computing and Schneider Electric Advance Energy Grid Forecasting via Watermelon Quantum-Enhanced AI System](https://quantumcomputingreport.com/silicon-quantum-computing-and-schneider-electric-advance-energy-grid-forecasting-via-watermelon-quantum-enhanced-ai-system/)** 
+  _Sat, 03 Oct 2026 10:55:38 +0000_
 
-* **[ORNL Develops LuGo Algorithm on Frontier Supercomputer, Reducing Quantum Circuit Gate Counts by 95% for Computational Fluid Dynamics](https://quantumcomputingreport.com/ornl-develops-lugo-algorithm-on-frontier-supercomputer-reducing-quantum-circuit-gate-counts-by-95-for-computational-fluid-dynamics/)** 
-  _Fri, 02 Oct 2026 11:02:55 +0000_
+* **[IBM Expands Research Collaborations with IISc and IIT Bombay to Advance Quantum-Centric Supercomputing and Sovereign AI](https://quantumcomputingreport.com/ibm-expands-research-collaborations-with-iisc-and-iit-bombay-to-advance-quantum-centric-supercomputing-and-sovereign-ai/)** 
+  _Sat, 03 Oct 2026 10:45:43 +0000_
+
+* **[IBM Expands AI and Quantum Research With IIT Bombay and IISc](https://thequantuminsider.com/2026/10/03/ibm-academic-collaborations-iit-bombay-iisc-agentic-ai-quantum/)** 
+  _Sat, 03 Oct 2026 07:00:00 +0000_
+
+* **[Helmut Katzgraber (55North): Why materials simulation beats optimization for near-term quantum](https://thequantuminsider.com/2026/10/03/helmut-katzgraber-55north-why-materials-simulation-beats-optimization-for-near-term-quantum/)** 
+  _Sat, 03 Oct 2026 07:00:00 +0000_
 
 * **[Quantum in Business Conference Highlights Commercial Quantum Applications](https://thequantuminsider.com/2026/10/02/quantum-in-business-commercial-quantum-applications/)** 
   _Fri, 02 Oct 2026 16:02:55 +0000_
-
-* **[QEst Hack Invites Participants to Test Quantum Algorithms on Real Business Problems](https://thequantuminsider.com/2026/10/02/qest-hack-invites-participants-to-test-quantum-algorithms-on-real-business-problems/)** 
-  _Fri, 02 Oct 2026 15:56:20 +0000_
-
-* **[New Method Generates Photons That Are Virtually Indistinguishable](https://thequantuminsider.com/2026/10/02/new-method-generates-photons-that-are-virtually-indistinguishable/)** 
-  _Fri, 02 Oct 2026 15:28:15 +0000_
 
 ---
