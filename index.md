@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 05, 2026
+# 🚀 Daily Tech Pulse: October 06, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Who’s News: Strategic Appointments at Quantum eMotion, Pasqal, Royal Bank of Canada, and 01 Quantum Inc.](https://quantumcomputingreport.com/whos-news-strategic-appointments-at-quantum-emotion-pasqal-royal-bank-of-canada-and-01-quantum-inc/)** 
-  _Sat, 03 Oct 2026 11:27:00 +0000_
+* **[planqc and LOGIQC Selected for Germany’s Quantum Computing Competition](https://thequantuminsider.com/2026/10/05/planqc-logiqc-germany-quantum-computing-competition/)** 
+  _Mon, 05 Oct 2026 19:11:24 +0000_
 
-* **[Silicon Quantum Computing and Schneider Electric Advance Energy Grid Forecasting via Watermelon Quantum-Enhanced AI System](https://quantumcomputingreport.com/silicon-quantum-computing-and-schneider-electric-advance-energy-grid-forecasting-via-watermelon-quantum-enhanced-ai-system/)** 
-  _Sat, 03 Oct 2026 10:55:38 +0000_
+* **[The AI Lab Launches Post-Quantum TIP Protocol for Content Verification](https://thequantuminsider.com/2026/10/05/ai-lab-post-quantum-tip-content-verification/)** 
+  _Mon, 05 Oct 2026 15:35:03 +0000_
 
-* **[IBM Expands Research Collaborations with IISc and IIT Bombay to Advance Quantum-Centric Supercomputing and Sovereign AI](https://quantumcomputingreport.com/ibm-expands-research-collaborations-with-iisc-and-iit-bombay-to-advance-quantum-centric-supercomputing-and-sovereign-ai/)** 
-  _Sat, 03 Oct 2026 10:45:43 +0000_
-
-* **[IBM Expands AI and Quantum Research With IIT Bombay and IISc](https://thequantuminsider.com/2026/10/03/ibm-academic-collaborations-iit-bombay-iisc-agentic-ai-quantum/)** 
-  _Sat, 03 Oct 2026 07:00:00 +0000_
-
-* **[Helmut Katzgraber (55North): Why materials simulation beats optimization for near-term quantum](https://thequantuminsider.com/2026/10/03/helmut-katzgraber-55north-why-materials-simulation-beats-optimization-for-near-term-quantum/)** 
-  _Sat, 03 Oct 2026 07:00:00 +0000_
-
-* **[Quantum in Business Conference Highlights Commercial Quantum Applications](https://thequantuminsider.com/2026/10/02/quantum-in-business-commercial-quantum-applications/)** 
-  _Fri, 02 Oct 2026 16:02:55 +0000_
+* **[AIDAQ 2026: AI is Now a staple of The Quantum story](https://thequantuminsider.com/2026/10/05/ai-part-quantum-story/)** 
+  _Mon, 05 Oct 2026 13:01:22 +0000_
 
 ---
