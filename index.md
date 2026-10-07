@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 06, 2026
+# 🚀 Daily Tech Pulse: October 07, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[planqc and LOGIQC Selected for Germany’s Quantum Computing Competition](https://thequantuminsider.com/2026/10/05/planqc-logiqc-germany-quantum-computing-competition/)** 
-  _Mon, 05 Oct 2026 19:11:24 +0000_
+* **[Leibniz University Hannover Launches €5.8 Million ($6.53 Million USD) HybriQCS Project to Develop Hybrid Molecule-Rydberg Quantum Systems](https://quantumcomputingreport.com/leibniz-university-hannover-launches-e5-8-million-6-53-million-usd-hybriqcs-project-to-develop-hybrid-molecule-rydberg-quantum-systems/)** 
+  _Tue, 06 Oct 2026 22:14:41 +0000_
 
-* **[The AI Lab Launches Post-Quantum TIP Protocol for Content Verification](https://thequantuminsider.com/2026/10/05/ai-lab-post-quantum-tip-content-verification/)** 
-  _Mon, 05 Oct 2026 15:35:03 +0000_
+* **[DecaQ Launches Cloud Beta 2 Platform Featuring 400 Logical Digital Qubits and Oracle Execution Engine](https://quantumcomputingreport.com/decaq-launches-cloud-beta-2-platform-featuring-400-logical-digital-qubits-and-oracle-execution-engine/)** 
+  _Tue, 06 Oct 2026 22:02:16 +0000_
 
-* **[AIDAQ 2026: AI is Now a staple of The Quantum story](https://thequantuminsider.com/2026/10/05/ai-part-quantum-story/)** 
-  _Mon, 05 Oct 2026 13:01:22 +0000_
+* **[QuantumGate and NEC GCC Partner to Deploy Sovereign Post-Quantum Cybersecurity Across UAE Critical Infrastructure](https://quantumcomputingreport.com/quantumgate-and-nec-gcc-partner-to-deploy-sovereign-post-quantum-cybersecurity-across-uae-critical-infrastructure/)** 
+  _Tue, 06 Oct 2026 21:49:15 +0000_
+
+* **[Zapata Quantum Joins IBM Quantum Network for Application Development](https://thequantuminsider.com/2026/10/06/zapata-ibm-quantum-network-application-development/)** 
+  _Tue, 06 Oct 2026 17:04:10 +0000_
+
+* **[SEALSQ Leads $10 Million PIPE Investment in WISeSat.Space](https://thequantuminsider.com/2026/10/06/sealsq-10-million-pipe-wisesat-space-cybersecurity/)** 
+  _Tue, 06 Oct 2026 16:51:51 +0000_
+
+* **[FAU Receives $200,000 NIST Award for Quantum Cybersecurity Workforce](https://thequantuminsider.com/2026/10/06/fau-nist-grant-quantum-cybersecurity-workforce/)** 
+  _Tue, 06 Oct 2026 16:43:46 +0000_
 
 ---
