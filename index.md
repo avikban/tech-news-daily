@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 08, 2026
+# 🚀 Daily Tech Pulse: October 09, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[DARPA Selects Atom Computing, Diraq, IBM, and IonQ for Final Stage C Verification under Quantum Benchmarking Initiative](https://quantumcomputingreport.com/darpa-selects-atom-computing-diraq-ibm-and-ionq-for-final-stage-c-verification-under-quantum-benchmarking-initiative/)** 
-  _Thu, 08 Oct 2026 00:17:52 +0000_
+* **[NSF Names Founding Partners for X-Labs Consortium, With Occam Foundry and Florida Quantum Center Among Them](https://thequantuminsider.com/2026/10/08/nsf-names-founding-partners-for-x-labs-consortium-with-occam-foundry-and-florida-quantum-center-among-them/)** 
+  _Thu, 08 Oct 2026 21:21:56 +0000_
 
-* **[Cisco Releases Quantum Network Controller and Network-Aware Compiler v0.2.0 for Distributed Quantum Infrastructure](https://quantumcomputingreport.com/cisco-releases-quantum-network-controller-and-network-aware-compiler-v0-2-0-for-distributed-quantum-infrastructure/)** 
-  _Wed, 07 Oct 2026 23:23:10 +0000_
+* **[DOE Announces Science Applications For Quantum Computing](https://thequantuminsider.com/2026/10/08/doe-announces-science-applications-for-quantum-computing/)** 
+  _Thu, 08 Oct 2026 19:24:58 +0000_
 
-* **[QuantumCT Opens 4,500 Sq. Ft. Innovation Headquarters in New Haven to Anchor Connecticut Quantum Corridor](https://quantumcomputingreport.com/quantumct-opens-4500-sq-ft-innovation-headquarters-in-new-haven-to-anchor-connecticut-quantum-corridor/)** 
-  _Wed, 07 Oct 2026 23:03:54 +0000_
-
-* **[IBM Advances to Stage C of DARPA Quantum Benchmarking Initiative](https://thequantuminsider.com/2026/10/07/ibm-advances-to-stage-c-of-darpa-quantum-benchmarking-initiative/)** 
-  _Wed, 07 Oct 2026 22:00:00 +0000_
-
-* **[KQC Quantum and Charlton Aria Agree on Nasdaq Business Combination](https://thequantuminsider.com/2026/10/07/kqc-quantum-nasdaq-charlton-aria-merger/)** 
-  _Wed, 07 Oct 2026 16:22:35 +0000_
-
-* **[Haiqu Releases AgenticOS to Plan and Check Quantum Research](https://thequantuminsider.com/2026/10/07/haiqu-releases-agenticos-to-plan-and-check-quantum-research/)** 
-  _Wed, 07 Oct 2026 15:42:10 +0000_
+* **[Oratomic Raises $775 Million to Develop Fault-Tolerant Quantum Computers](https://thequantuminsider.com/2026/10/08/oratomic-secures-775-million-fault-tolerant-quantum-computers/)** 
+  _Thu, 08 Oct 2026 17:45:00 +0000_
 
 ---
