@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 09, 2026
+# 🚀 Daily Tech Pulse: October 10, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[NSF Names Founding Partners for X-Labs Consortium, With Occam Foundry and Florida Quantum Center Among Them](https://thequantuminsider.com/2026/10/08/nsf-names-founding-partners-for-x-labs-consortium-with-occam-foundry-and-florida-quantum-center-among-them/)** 
-  _Thu, 08 Oct 2026 21:21:56 +0000_
+* **[Tuning a quantum computer: what a violin teaches us about qubit calibration](https://thequantuminsider.com/2026/10/09/tuning-a-quantum-computer-what-a-violin-teaches-us-about-qubit-calibration/)** 
+  _Fri, 09 Oct 2026 18:46:22 +0000_
 
-* **[DOE Announces Science Applications For Quantum Computing](https://thequantuminsider.com/2026/10/08/doe-announces-science-applications-for-quantum-computing/)** 
-  _Thu, 08 Oct 2026 19:24:58 +0000_
+* **[Guest Post: Quantum Computing’s Transistor Moment](https://thequantuminsider.com/2026/10/09/guest-post-quantum-computings-transistor-moment/)** 
+  _Fri, 09 Oct 2026 14:45:33 +0000_
 
-* **[Oratomic Raises $775 Million to Develop Fault-Tolerant Quantum Computers](https://thequantuminsider.com/2026/10/08/oratomic-secures-775-million-fault-tolerant-quantum-computers/)** 
-  _Thu, 08 Oct 2026 17:45:00 +0000_
+* **[IonQ Demonstrates 1,000 Entanglement Events per Second in Quantum Interconnect](https://thequantuminsider.com/2026/10/09/ionq-1000-entanglement-events-per-second-quantum-interconnect/)** 
+  _Fri, 09 Oct 2026 13:20:20 +0000_
 
 ---
