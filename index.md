@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 12, 2026
+# 🚀 Daily Tech Pulse: October 13, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[IBM Launches Directed Execution Model and Executor Primitive to Give Researchers Client-Side Control Over QEC Workflows](https://quantumcomputingreport.com/ibm-launches-directed-execution-model-and-executor-primitive-to-give-researchers-client-side-control-over-qec-workflows/)** 
-  _Sat, 10 Oct 2026 22:55:26 +0000_
+* **[Podcast with Walter Raquet, Chairman and CEO of Symmatrics](https://quantumcomputingreport.com/podcast-with-walter-raquet-chairman-and-ceo-of-symmatrics/)** 
+  _Mon, 12 Oct 2026 18:25:18 +0000_
 
-* **[IBM Expands Qiskit Beyond Python with Native C API Bindings for Fortran, C++, and Julia](https://quantumcomputingreport.com/ibm-expands-qiskit-beyond-python-with-native-c-api-bindings-for-fortran-c-and-julia/)** 
-  _Sat, 10 Oct 2026 22:32:25 +0000_
+* **[IonQ Demonstrates Scheduled qLDPC Error Correction to Accelerate Fault-Tolerant Gate Execution by up to 74x](https://quantumcomputingreport.com/ionq-demonstrates-scheduled-qldpc-error-correction-to-accelerate-fault-tolerant-gate-execution-by-up-to-74x/)** 
+  _Mon, 12 Oct 2026 15:03:51 +0000_
 
-* **[QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0](https://quantumcomputingreport.com/quic-whitepaper-calls-for-industrial-scale-up-infrastructure-in-eu-chips-act-2-0/)** 
-  _Sat, 10 Oct 2026 21:40:59 +0000_
+* **[IonQ to Acquire Elisity for Up to $1.3 Billion to Integrate Zero Trust with Post-Quantum Cybersecurity](https://quantumcomputingreport.com/ionq-to-acquire-elisity-for-up-to-1-3-billion-to-integrate-zero-trust-with-post-quantum-cybersecurity/)** 
+  _Mon, 12 Oct 2026 14:47:51 +0000_
 
-* **[Corey O’Meara (E.ON): Finding Real Quantum Advantage in Grid Optimization](https://thequantuminsider.com/2026/10/10/corey-omeara-e-on-finding-real-quantum-advantage-in-grid-optimization/)** 
-  _Sat, 10 Oct 2026 07:00:00 +0000_
+* **[WISeSat.Space Develops Post-Quantum Security for Satellite Communications](https://thequantuminsider.com/2026/10/12/wisesat-space-post-quantum-security-satellite-communications/)** 
+  _Mon, 12 Oct 2026 17:50:35 +0000_
 
-* **[Tuning a quantum computer: what a violin teaches us about qubit calibration](https://thequantuminsider.com/2026/10/09/tuning-a-quantum-computer-what-a-violin-teaches-us-about-qubit-calibration/)** 
-  _Fri, 09 Oct 2026 18:46:22 +0000_
+* **[SEALSQ Unveils VaultIC409 Secure Element for Post-Quantum Cryptography](https://thequantuminsider.com/2026/10/12/sealsq-vaultic409-secure-element-post-quantum-cryptography/)** 
+  _Mon, 12 Oct 2026 17:05:50 +0000_
 
-* **[Guest Post: Quantum Computing’s Transistor Moment](https://thequantuminsider.com/2026/10/09/guest-post-quantum-computings-transistor-moment/)** 
-  _Fri, 09 Oct 2026 14:45:33 +0000_
+* **[In Step Toward Quantum Networking, Penn Study Finds Quantum Light Pattern Can Survive Loss of Entanglement](https://thequantuminsider.com/2026/10/12/in-step-toward-quantum-networking-penn-study-finds-quantum-light-pattern-can-survive-loss-of-entanglement/)** 
+  _Mon, 12 Oct 2026 15:01:15 +0000_
 
 ---
