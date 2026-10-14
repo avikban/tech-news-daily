@@ -1,34 +1,34 @@
-# 🚀 Daily Tech Pulse: October 13, 2026
+# 🚀 Daily Tech Pulse: October 14, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
+* **[U.S. Chip Firms Bet Big on R&D](https://spectrum.ieee.org/semiconductor-research)** 
+  _Tue, 13 Oct 2026 11:00:05 +0000_
+
 * **[The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing](https://spectrum.ieee.org/anderon-quantum-fab)** 
   _Wed, 07 Oct 2026 13:09:13 +0000_
 
 * **[Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Control](https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE)** 
   _Fri, 02 Oct 2026 10:00:03 +0000_
 
-* **[Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog](https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32)** 
-  _Tue, 29 Sep 2026 10:00:06 +0000_
-
 ---
 ## Quantum Updates
-* **[Podcast with Walter Raquet, Chairman and CEO of Symmatrics](https://quantumcomputingreport.com/podcast-with-walter-raquet-chairman-and-ceo-of-symmatrics/)** 
-  _Mon, 12 Oct 2026 18:25:18 +0000_
+* **[Swinburne University and IQM Partner to Advance Quantum Ecosystem in Australia and Europe](https://quantumcomputingreport.com/swinburne-university-and-iqm-partner-to-advance-quantum-ecosystem-in-australia-and-europe/)** 
+  _Tue, 13 Oct 2026 02:53:59 +0000_
 
-* **[IonQ Demonstrates Scheduled qLDPC Error Correction to Accelerate Fault-Tolerant Gate Execution by up to 74x](https://quantumcomputingreport.com/ionq-demonstrates-scheduled-qldpc-error-correction-to-accelerate-fault-tolerant-gate-execution-by-up-to-74x/)** 
-  _Mon, 12 Oct 2026 15:03:51 +0000_
+* **[Google Quantum AI Introduces Virtual Error Cancellation for Universal Logical Circuits](https://quantumcomputingreport.com/google-quantum-ai-introduces-virtual-error-cancellation-for-universal-logical-circuits/)** 
+  _Tue, 13 Oct 2026 02:41:46 +0000_
 
-* **[IonQ to Acquire Elisity for Up to $1.3 Billion to Integrate Zero Trust with Post-Quantum Cybersecurity](https://quantumcomputingreport.com/ionq-to-acquire-elisity-for-up-to-1-3-billion-to-integrate-zero-trust-with-post-quantum-cybersecurity/)** 
-  _Mon, 12 Oct 2026 14:47:51 +0000_
+* **[University of Pennsylvania Team Demonstrates On-Chip Photonic Quantum Skyrmion Transfer in Nature Physics](https://quantumcomputingreport.com/university-of-pennsylvania-team-demonstrates-on-chip-photonic-quantum-skyrmion-transfer-in-nature-physics/)** 
+  _Tue, 13 Oct 2026 02:24:05 +0000_
 
-* **[WISeSat.Space Develops Post-Quantum Security for Satellite Communications](https://thequantuminsider.com/2026/10/12/wisesat-space-post-quantum-security-satellite-communications/)** 
-  _Mon, 12 Oct 2026 17:50:35 +0000_
+* **[Coinbase Urges Early Work on Bitcoin’s Post-Quantum Transition](https://thequantuminsider.com/2026/10/13/coinbase-urges-early-work-on-bitcoins-post-quantum-transition/)** 
+  _Tue, 13 Oct 2026 16:12:19 +0000_
 
-* **[SEALSQ Unveils VaultIC409 Secure Element for Post-Quantum Cryptography](https://thequantuminsider.com/2026/10/12/sealsq-vaultic409-secure-element-post-quantum-cryptography/)** 
-  _Mon, 12 Oct 2026 17:05:50 +0000_
+* **[Quantum Firms Backed to Keep UK Railways Running And Cut Waiting Lists](https://thequantuminsider.com/2026/10/13/quantum-firms-backed-to-keep-uk-railways-running-and-cut-waiting-lists/)** 
+  _Tue, 13 Oct 2026 14:50:53 +0000_
 
-* **[In Step Toward Quantum Networking, Penn Study Finds Quantum Light Pattern Can Survive Loss of Entanglement](https://thequantuminsider.com/2026/10/12/in-step-toward-quantum-networking-penn-study-finds-quantum-light-pattern-can-survive-loss-of-entanglement/)** 
-  _Mon, 12 Oct 2026 15:01:15 +0000_
+* **[Infleqtion Receives £9 Million to Develop Quantum RF Sensing System](https://thequantuminsider.com/2026/10/13/infleqtion-9-million-quantum-rf-sensing-system/)** 
+  _Tue, 13 Oct 2026 14:43:50 +0000_
 
 ---
