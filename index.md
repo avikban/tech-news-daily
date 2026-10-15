@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 14, 2026
+# 🚀 Daily Tech Pulse: October 15, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Swinburne University and IQM Partner to Advance Quantum Ecosystem in Australia and Europe](https://quantumcomputingreport.com/swinburne-university-and-iqm-partner-to-advance-quantum-ecosystem-in-australia-and-europe/)** 
-  _Tue, 13 Oct 2026 02:53:59 +0000_
+* **[Riverlane and NVIDIA Demonstrate Accelerated QEC Decoder Calibration Using GPU Processing](https://quantumcomputingreport.com/riverlane-and-nvidia-demonstrate-accelerated-qec-decoder-calibration-using-gpu-processing/)** 
+  _Wed, 14 Oct 2026 22:45:55 +0000_
 
-* **[Google Quantum AI Introduces Virtual Error Cancellation for Universal Logical Circuits](https://quantumcomputingreport.com/google-quantum-ai-introduces-virtual-error-cancellation-for-universal-logical-circuits/)** 
-  _Tue, 13 Oct 2026 02:41:46 +0000_
+* **[New York City and NYU Partner to Launch $284 Million Quantum Fabrication Facility](https://quantumcomputingreport.com/new-york-city-and-nyu-partner-to-launch-284-million-quantum-fabrication-facility/)** 
+  _Wed, 14 Oct 2026 22:06:54 +0000_
 
-* **[University of Pennsylvania Team Demonstrates On-Chip Photonic Quantum Skyrmion Transfer in Nature Physics](https://quantumcomputingreport.com/university-of-pennsylvania-team-demonstrates-on-chip-photonic-quantum-skyrmion-transfer-in-nature-physics/)** 
-  _Tue, 13 Oct 2026 02:24:05 +0000_
+* **[SAXON Q and Fraunhofer IWU Demonstrate Record 3-Qubit Grover Search on Commercial Room-Temperature Quantum Computer](https://quantumcomputingreport.com/saxon-q-and-fraunhofer-iwu-demonstrate-record-3-qubit-grover-search-on-commercial-room-temperature-quantum-computer/)** 
+  _Wed, 14 Oct 2026 21:48:06 +0000_
 
-* **[Coinbase Urges Early Work on Bitcoin’s Post-Quantum Transition](https://thequantuminsider.com/2026/10/13/coinbase-urges-early-work-on-bitcoins-post-quantum-transition/)** 
-  _Tue, 13 Oct 2026 16:12:19 +0000_
+* **[NYC Awards $29.2 million to New York University to Establish a Cutting-edge Quantum Fabrication Facility](https://thequantuminsider.com/2026/10/14/nyc-awards-29-2-million-to-new-york-university-to-establish-a-cutting-edge-quantum-fabrication-facility/)** 
+  _Wed, 14 Oct 2026 22:01:08 +0000_
 
-* **[Quantum Firms Backed to Keep UK Railways Running And Cut Waiting Lists](https://thequantuminsider.com/2026/10/13/quantum-firms-backed-to-keep-uk-railways-running-and-cut-waiting-lists/)** 
-  _Tue, 13 Oct 2026 14:50:53 +0000_
+* **[SAXON Q Reports That Room-Temperature Quantum Computers Can Rival the Performance of Superconducting Processors](https://thequantuminsider.com/2026/10/14/saxon-q-reports-that-room-temperature-quantum-computers-can-rival-the-performance-of-superconducting-processors/)** 
+  _Wed, 14 Oct 2026 16:06:37 +0000_
 
-* **[Infleqtion Receives £9 Million to Develop Quantum RF Sensing System](https://thequantuminsider.com/2026/10/13/infleqtion-9-million-quantum-rf-sensing-system/)** 
-  _Tue, 13 Oct 2026 14:43:50 +0000_
+* **[EigenOrbit Releases Open-Source eigenkit Quantum Computing Library](https://thequantuminsider.com/2026/10/14/eigenorbit-releases-open-source-eigenkit-quantum-computing-library/)** 
+  _Wed, 14 Oct 2026 15:55:54 +0000_
 
 ---
