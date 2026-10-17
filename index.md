@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 16, 2026
+# 🚀 Daily Tech Pulse: October 17, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Google Quantum AI Demonstrates Magic State Cultivation on Willow Processor in Science Milestone](https://quantumcomputingreport.com/google-quantum-ai-demonstrates-magic-state-cultivation-on-willow-processor-in-science-milestone/)** 
-  _Fri, 16 Oct 2026 00:00:52 +0000_
+* **[NVision Quantum Technologies Expands into Molecular Quantum Computing with Photonic Integrated Architecture](https://quantumcomputingreport.com/nvision-quantum-technologies-expands-into-molecular-quantum-computing-with-photonic-integrated-architecture/)** 
+  _Fri, 16 Oct 2026 17:47:05 +0000_
 
-* **[Google Quantum AI & DeepMind Demonstrate Modular Hyperbolic Codes for Over 30x QEC Overhead Reduction](https://quantumcomputingreport.com/google-quantum-ai-deepmind-demonstrate-modular-hyperbolic-codes-for-over-30x-qec-overhead-reduction/)** 
-  _Thu, 15 Oct 2026 23:14:38 +0000_
+* **[Manufacturing Announcements Can Influence Patentability Challenges: What Quantum Computing Companies Should Know](https://quantumcomputingreport.com/manufacturing-announcements-can-influence-patentability-challenges-what-quantum-computing-companies-should-know/)** 
+  _Fri, 16 Oct 2026 03:59:07 +0000_
 
-* **[Germany Issues Joint Federal PQC Migration Guidelines to Align with EU Post-Quantum Roadmap](https://quantumcomputingreport.com/germany-issues-joint-federal-pqc-migration-guidelines-to-align-with-eu-post-quantum-roadmap/)** 
-  _Thu, 15 Oct 2026 22:53:09 +0000_
+* **[EMode Photonix Raises $1M Pre-Seed Round Led by Ground State Ventures for Photonic Circuit Simulation Stack](https://quantumcomputingreport.com/emode-photonix-raises-1m-pre-seed-round-led-by-ground-state-ventures-for-photonic-circuit-simulation-stack/)** 
+  _Fri, 16 Oct 2026 00:40:37 +0000_
 
-* **[Stony Brook Quantum Memory Named to TIME’s Best Inventions of 2026](https://thequantuminsider.com/2026/10/15/stony-brook-patented-quantum-memory-time-best-inventions/)** 
-  _Thu, 15 Oct 2026 19:50:58 +0000_
+* **[Anderon Releases First Superconducting Quantum PDK](https://thequantuminsider.com/2026/10/16/anderon-superconducting-quantum-pdk/)** 
+  _Fri, 16 Oct 2026 13:15:52 +0000_
 
-* **[Sweden Joins European Quantum and AI Skills Academies](https://thequantuminsider.com/2026/10/15/sweden-european-skills-academies-quantum-ai/)** 
-  _Thu, 15 Oct 2026 15:00:56 +0000_
+* **[Germany Publishes National Post-Quantum Cryptography Migration Guideline](https://thequantuminsider.com/2026/10/16/transition-post-quantum-cryptography-national-eu-roadmap-guideline/)** 
+  _Fri, 16 Oct 2026 12:43:02 +0000_
 
-* **[IonQ and University of Cambridge Open Quantum Innovation Centre](https://thequantuminsider.com/2026/10/15/ionq-cambridge-quantum-innovation-centre-2/)** 
-  _Thu, 15 Oct 2026 14:53:41 +0000_
+* **[QuEra Scientists Named Co-Principal Investigators on Three of Nine Teams in DOE’s Quantum Chemistry Program](https://thequantuminsider.com/2026/10/16/quera-three-teams-doe-quantum-chemistry-program/)** 
+  _Fri, 16 Oct 2026 12:23:53 +0000_
 
 ---
