@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 19, 2026
+# 🚀 Daily Tech Pulse: October 20, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations](https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/)** 
-  _Sat, 17 Oct 2026 08:11:10 +0000_
+* **[NVIDIA Runs Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre](https://thequantuminsider.com/2026/10/19/nvidia-runs-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre/)** 
+  _Mon, 19 Oct 2026 19:02:39 +0000_
 
-* **[Robert Wille (Munich Quantum Software Company): Quantum software needs design automation, not just algorithms](https://thequantuminsider.com/2026/10/17/robert-wille-munich-quantum-software-company-quantum-software-needs-design-automation-not-just-algorithms/)** 
-  _Sat, 17 Oct 2026 07:40:00 +0000_
+* **[Quantinuum Reports a 10x Reduction in Logical Error Rate on Helios](https://thequantuminsider.com/2026/10/19/quantinuum-reports-a-10x-reduction-in-logical-error-rate-on-helios/)** 
+  _Mon, 19 Oct 2026 13:02:10 +0000_
 
-* **[Guest Post: AI Infrastructure Investment and the Future of Quantum Computing](https://thequantuminsider.com/2026/10/17/ai-infrastructure-investment-future-quantum-computing/)** 
-  _Sat, 17 Oct 2026 07:00:00 +0000_
+* **[China’s Tuoyuan Targets Neutral-Atom Quantum Computing](https://thequantuminsider.com/2026/10/19/chinas-tuoyuan-targets-neutral-atom-quantum-computing/)** 
+  _Mon, 19 Oct 2026 11:00:57 +0000_
 
 ---
