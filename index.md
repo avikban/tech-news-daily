@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 21, 2026
+# 🚀 Daily Tech Pulse: October 22, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Quminex Raises $1.5M CAD ($1.06M USD) Pre-Seed Round Led by Quantacet and QAI Ventures to Advance Mineral Discovery Platform](https://quantumcomputingreport.com/quminex-raises-1-5m-cad-1-06m-usd-pre-seed-round-led-by-quantacet-and-qai-ventures-to-advance-mineral-discovery-platform/)** 
-  _Tue, 20 Oct 2026 00:23:17 +0000_
+* **[Plurilock Files Information Circular and Schedules Shareholder Vote for C$33.8M ($24M USD) Acquisition by Quantum eMotion](https://quantumcomputingreport.com/plurilock-files-information-circular-and-schedules-shareholder-vote-for-c33-8m-24m-usd-acquisition-by-quantum-emotion/)** 
+  _Wed, 21 Oct 2026 13:13:18 +0000_
 
-* **[Taiyi Quantum Surpasses ¥1 Billion RMB ($149.6M+ USD) in Cumulative Funding for Ytterbium Neutral-Atom Systems](https://quantumcomputingreport.com/taiyi-quantum-surpasses-%c2%a51-billion-rmb-149-6m-usd-in-cumulative-funding-for-ytterbium-neutral-atom-systems/)** 
-  _Tue, 20 Oct 2026 00:00:21 +0000_
+* **[Coherence Quantum Launches with €2.78 Million ($3.1 Million USD) Seed Round to Scale Cryogenic Quantum Control](https://quantumcomputingreport.com/coherence-quantum-launches-with-e2-78-million-3-1-million-usd-seed-round-to-scale-cryogenic-quantum-control/)** 
+  _Wed, 21 Oct 2026 12:58:13 +0000_
 
-* **[Chinese Startup FlipFlop Tuoyuan Emerges with Major VC Backing for 100-Logical-Qubit Neutral-Atom Systems](https://quantumcomputingreport.com/chinese-startup-flipflop-tuoyuan-emerges-with-major-vc-backing-for-100-logical-qubit-neutral-atom-systems/)** 
-  _Mon, 19 Oct 2026 22:50:15 +0000_
+* **[Black Kite Introduces Quantum Readiness Controls to Assess Third-Party Cryptographic Risk](https://quantumcomputingreport.com/black-kite-introduces-quantum-readiness-controls-to-assess-third-party-cryptographic-risk/)** 
+  _Wed, 21 Oct 2026 12:49:25 +0000_
 
-* **[Postquant Labs Launches Quip Virtual Machine for Quantum and Classical Computing](https://thequantuminsider.com/2026/10/20/postquant-labs-quip-virtual-machine-quantum-classical-computing/)** 
-  _Tue, 20 Oct 2026 17:55:00 +0000_
+* **[Plurilock Sets Vote on Quantum eMotion Acquisition](https://thequantuminsider.com/2026/10/21/plurilock-sets-vote-on-quantum-emotion-acquisition/)** 
+  _Wed, 21 Oct 2026 15:36:52 +0000_
 
-* **[Vietnam Quantum Expert Urges Closer EU Ties to Build National Capabilities](https://thequantuminsider.com/2026/10/20/vietnam-quantum-expert-urges-closer-eu-ties-to-build-national-capabilities/)** 
-  _Tue, 20 Oct 2026 14:23:40 +0000_
+* **[GOTT Funds NPL Project to Scale Trapped-Ion Quantum Technology](https://thequantuminsider.com/2026/10/21/gott-funds-npl-project-to-scale-trapped-ion-quantum-technology/)** 
+  _Wed, 21 Oct 2026 15:16:16 +0000_
 
-* **[Project Eleven and Relm Explore Post-Quantum Risk in Digital Asset Insurance](https://thequantuminsider.com/2026/10/20/project-eleven-relm-post-quantum-risk-digital-asset-insurance/)** 
-  _Tue, 20 Oct 2026 14:13:26 +0000_
+* **[Before the Qubit](https://thequantuminsider.com/2026/10/21/before-the-qubit/)** 
+  _Wed, 21 Oct 2026 15:13:24 +0000_
 
 ---
