@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 26, 2026
+# 🚀 Daily Tech Pulse: October 27, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[New York Deploys $360 Million for Stony Brook and Regional Hubs Supported by $1.37B in Federal Foundry Commitments](https://quantumcomputingreport.com/new-york-deploys-360-million-for-stony-brook-and-regional-hubs-supported-by-1-37b-in-federal-foundry-commitments/)** 
-  _Sun, 25 Oct 2026 00:54:15 +0000_
+* **[Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform](https://thequantuminsider.com/2026/10/26/intel-to-acquire-classiq-to-create-a-full-stack-quantum-computing-platform/)** 
+  _Mon, 26 Oct 2026 20:55:35 +0000_
 
-* **[Review Unpacks China’s Surging Neutral-Atom Ecosystem: World-Record Arrays, Commercial Systems, and Scaling Milestones](https://quantumcomputingreport.com/review-unpacks-chinas-surging-neutral-atom-ecosystem-world-record-arrays-commercial-systems-and-scaling-milestones/)** 
-  _Sun, 25 Oct 2026 00:25:05 +0000_
+* **[IDEMIA Secure Transactions Collaborates With KT in Advancing Post-Quantum Security For South Korea’s Defense Communications](https://thequantuminsider.com/2026/10/26/idemia-secure-transactions-collaborates-with-kt-in-advancing-post-quantum-security-for-south-koreas-defense-communications/)** 
+  _Mon, 26 Oct 2026 16:38:00 +0000_
 
-* **[New Mexico Deploys JTIP Workforce Grants to Support Quantum Hardware Hiring at IonQ and Bandelier Technologies](https://quantumcomputingreport.com/new-mexico-deploys-jtip-workforce-grants-to-support-quantum-hardware-hiring-at-ionq-and-bandelier-technologies/)** 
-  _Sat, 24 Oct 2026 23:57:45 +0000_
-
-* **[Mehmet Sanliol (Evercore): Why quantum valuations hinge on 2030 revenue multiples and consolidation](https://thequantuminsider.com/2026/10/24/mehmet-sanliol-evercore-why-quantum-valuations-hinge-on-2030-revenue-multiples-and-consolidation/)** 
-  _Sat, 24 Oct 2026 07:00:00 +0000_
-
-* **[Governor Hochul Announces New Study Highlighting New York’s Position as a National Leader in Quantum Technology](https://thequantuminsider.com/2026/10/23/governor-hochul-announces-new-study-highlighting-new-yorks-position-as-a-national-leader-in-quantum-technology/)** 
-  _Fri, 23 Oct 2026 14:09:47 +0000_
-
-* **[Guest Post: Quantum Computing’s Next Phase May Be Driven by Compounding Breakthroughs](https://thequantuminsider.com/2026/10/23/quantum-computing-compounding-breakthroughs/)** 
-  _Fri, 23 Oct 2026 11:31:57 +0000_
+* **[Israel Ranks Fourth in Private Quantum Investment as Sector Expands, According to Report](https://thequantuminsider.com/2026/10/26/israel-ranks-fourth-in-private-quantum-investment-as-sector-expands-according-to-report/)** 
+  _Mon, 26 Oct 2026 13:49:02 +0000_
 
 ---
