@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 27, 2026
+# 🚀 Daily Tech Pulse: October 28, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,13 @@
 
 ---
 ## Quantum Updates
-* **[Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform](https://thequantuminsider.com/2026/10/26/intel-to-acquire-classiq-to-create-a-full-stack-quantum-computing-platform/)** 
-  _Mon, 26 Oct 2026 20:55:35 +0000_
+* **[NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards](https://thequantuminsider.com/2026/10/27/nist-report-provides-guidelines-for-transition-to-post-quantum-cryptography-standards/)** 
+  _Tue, 27 Oct 2026 18:24:05 +0000_
 
-* **[IDEMIA Secure Transactions Collaborates With KT in Advancing Post-Quantum Security For South Korea’s Defense Communications](https://thequantuminsider.com/2026/10/26/idemia-secure-transactions-collaborates-with-kt-in-advancing-post-quantum-security-for-south-koreas-defense-communications/)** 
-  _Mon, 26 Oct 2026 16:38:00 +0000_
+* **[QuantrolOx Raises €12 Million in Series A2](https://thequantuminsider.com/2026/10/27/quantrolox-raises-e12-million-in-series-a2/)** 
+  _Tue, 27 Oct 2026 16:57:14 +0000_
 
-* **[Israel Ranks Fourth in Private Quantum Investment as Sector Expands, According to Report](https://thequantuminsider.com/2026/10/26/israel-ranks-fourth-in-private-quantum-investment-as-sector-expands-according-to-report/)** 
-  _Mon, 26 Oct 2026 13:49:02 +0000_
+* **[Guest Post: The Next Threat to Encryption May Not Need a Quantum Computer](https://thequantuminsider.com/2026/10/27/guest-post-the-next-threat-to-encryption-may-not-need-a-quantum-computer/)** 
+  _Tue, 27 Oct 2026 16:37:43 +0000_
 
 ---
