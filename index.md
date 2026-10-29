@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 28, 2026
+# 🚀 Daily Tech Pulse: October 29, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards](https://thequantuminsider.com/2026/10/27/nist-report-provides-guidelines-for-transition-to-post-quantum-cryptography-standards/)** 
-  _Tue, 27 Oct 2026 18:24:05 +0000_
+* **[LANL and Cornell Researchers Demonstrate Extraction of Quantum Information Structures from Condensed-Matter Dynamical Simulations](https://quantumcomputingreport.com/lanl-and-cornell-researchers-demonstrate-extraction-of-quantum-information-structures-from-condensed-matter-dynamical-simulations/)** 
+  _Thu, 29 Oct 2026 01:15:02 +0000_
 
-* **[QuantrolOx Raises €12 Million in Series A2](https://thequantuminsider.com/2026/10/27/quantrolox-raises-e12-million-in-series-a2/)** 
-  _Tue, 27 Oct 2026 16:57:14 +0000_
+* **[EPB and IonQ Deploy Hybrid Trapped-Ion Algorithms on Forte Enterprise to Optimize Power Grid Topology](https://quantumcomputingreport.com/epb-and-ionq-deploy-hybrid-trapped-ion-algorithms-on-forte-enterprise-to-optimize-power-grid-topology/)** 
+  _Thu, 29 Oct 2026 01:07:36 +0000_
 
-* **[Guest Post: The Next Threat to Encryption May Not Need a Quantum Computer](https://thequantuminsider.com/2026/10/27/guest-post-the-next-threat-to-encryption-may-not-need-a-quantum-computer/)** 
-  _Tue, 27 Oct 2026 16:37:43 +0000_
+* **[NQCP Spins Out Pelagic Systems to Commercialize Real-Time Hardware Calibration Software](https://quantumcomputingreport.com/nqcp-spins-out-pelagic-systems-to-commercialize-real-time-hardware-calibration-software/)** 
+  _Thu, 29 Oct 2026 00:35:24 +0000_
+
+* **[Hogan Lovells Cadwalader Advises Intel in Pending Acquisition of Classiq Technologies](https://thequantuminsider.com/2026/10/28/hogan-lovells-cadwalader-advises-intel-in-pending-acquisition-of-classiq-technologies/)** 
+  _Wed, 28 Oct 2026 16:48:49 +0000_
+
+* **[PsiQuantum Unveils Optical Circuit Switch for AI Data Centers](https://thequantuminsider.com/2026/10/28/psiquantum-optical-circuit-switch-ai-data-centers/)** 
+  _Wed, 28 Oct 2026 16:26:36 +0000_
+
+* **[NVision and HyperLight Partner to Develop Photonic Quantum Chips](https://thequantuminsider.com/2026/10/28/nvision-nature-molecular-qubits-hyperlight/)** 
+  _Wed, 28 Oct 2026 16:05:00 +0000_
 
 ---
