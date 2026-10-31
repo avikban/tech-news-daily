@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 30, 2026
+# 🚀 Daily Tech Pulse: October 31, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[UK Space Agency and DSIT Publish Quantum Technology Roadmap for Space Targeting 2035–2040 Sovereign Capabilities](https://quantumcomputingreport.com/uk-space-agency-and-dsit-publish-quantum-technology-roadmap-for-space-targeting-2035-2040-sovereign-capabilities/)** 
-  _Thu, 29 Oct 2026 03:39:30 +0000_
+* **[Infleqtion Operates Tiqker Optical Atomic Clock Aboard U.S. Navy Vessel During Pacific Military Exercises](https://quantumcomputingreport.com/infleqtion-operates-tiqker-optical-atomic-clock-aboard-u-s-navy-vessel-during-pacific-military-exercises/)** 
+  _Fri, 30 Oct 2026 23:56:35 +0000_
 
-* **[Pasqal 256-Qubit Neutral-Atom Processor Observes Unpredicted Slowdown in 2D Quantum Magnet Dynamics](https://quantumcomputingreport.com/pasqal-256-qubit-neutral-atom-processor-observes-unpredicted-slowdown-in-2d-quantum-magnet-dynamics/)** 
-  _Thu, 29 Oct 2026 02:47:07 +0000_
+* **[BTQ Technologies and QPerfect Deliver First Circuit-Level Implementation of Quantum One-Shot Signatures](https://quantumcomputingreport.com/btq-technologies-and-qperfect-deliver-first-circuit-level-implementation-of-quantum-one-shot-signatures/)** 
+  _Fri, 30 Oct 2026 23:37:43 +0000_
 
-* **[BlueQubit Benchmarks Quantum Computational Advantage in Random-Circuit Sampling on IBM Nighthawk r2 Hardware](https://quantumcomputingreport.com/bluequbit-benchmarks-quantum-computational-advantage-in-random-circuit-sampling-on-ibm-nighthawk-r2-hardware/)** 
-  _Thu, 29 Oct 2026 02:21:59 +0000_
+* **[BTQ Technologies Integrates QPerfect MIMIQ Quantum Emulator into qBraid Cloud Platform](https://quantumcomputingreport.com/btq-technologies-integrates-qperfect-mimiq-quantum-emulator-into-qbraid-cloud-platform/)** 
+  _Fri, 30 Oct 2026 23:12:08 +0000_
 
-* **[Lumen Announces AI Networking, Quantum Research and PQC Plans](https://thequantuminsider.com/2026/10/29/lumen-ai-networking-quantum-research-pqc/)** 
-  _Thu, 29 Oct 2026 14:55:42 +0000_
+* **[Quantum Industry Coalition Highlights Funding Priorities For The National Quantum Initiative Reauthorization Act](https://thequantuminsider.com/2026/10/30/quantum-industry-coalition-highlights-funding-priorities-for-the-national-quantum-initiative-reauthorization-act/)** 
+  _Fri, 30 Oct 2026 19:37:04 +0000_
 
-* **[Alice & Bob Estimates 22,593 Qubits to Break RSA-2048](https://thequantuminsider.com/2026/10/29/alice-bob-22593-qubits-break-rsa-2048/)** 
-  _Thu, 29 Oct 2026 14:00:00 +0000_
+* **[Infleqtion Tests Optical Atomic Clock During US Navy Exercise](https://thequantuminsider.com/2026/10/30/infleqtion-optical-atomic-clock-navy-exercise/)** 
+  _Fri, 30 Oct 2026 13:50:41 +0000_
 
-* **[E.ON and Qoro Test Hybrid Quantum Computing for Energy Scheduling](https://thequantuminsider.com/2026/10/29/eon-qoro-hybrid-quantum-energy-scheduling/)** 
-  _Thu, 29 Oct 2026 10:54:53 +0000_
+* **[Netpoleon India Partners With QNu Labs on Quantum-Safe Security](https://thequantuminsider.com/2026/10/30/netpoleon-qnu-labs-quantum-safe-security/)** 
+  _Fri, 30 Oct 2026 13:42:42 +0000_
 
 ---
