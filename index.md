@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: October 31, 2026
+# 🚀 Daily Tech Pulse: November 01, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Infleqtion Operates Tiqker Optical Atomic Clock Aboard U.S. Navy Vessel During Pacific Military Exercises](https://quantumcomputingreport.com/infleqtion-operates-tiqker-optical-atomic-clock-aboard-u-s-navy-vessel-during-pacific-military-exercises/)** 
-  _Fri, 30 Oct 2026 23:56:35 +0000_
+* **[University of Stuttgart Deploys Quantum Dot QKD Link Using Frequency Conversion Over Campus Fiber](https://quantumcomputingreport.com/university-of-stuttgart-deploys-quantum-dot-qkd-link-using-frequency-conversion-over-campus-fiber/)** 
+  _Sat, 31 Oct 2026 15:04:57 +0000_
 
-* **[BTQ Technologies and QPerfect Deliver First Circuit-Level Implementation of Quantum One-Shot Signatures](https://quantumcomputingreport.com/btq-technologies-and-qperfect-deliver-first-circuit-level-implementation-of-quantum-one-shot-signatures/)** 
-  _Fri, 30 Oct 2026 23:37:43 +0000_
+* **[Chalmers University Demonstrates Hardware-Level Microwave Crosstalk Suppression via Parasitic Capacitance Engineering](https://quantumcomputingreport.com/chalmers-university-demonstrates-hardware-level-microwave-crosstalk-suppression-via-parasitic-capacitance-engineering/)** 
+  _Sat, 31 Oct 2026 14:58:16 +0000_
 
-* **[BTQ Technologies Integrates QPerfect MIMIQ Quantum Emulator into qBraid Cloud Platform](https://quantumcomputingreport.com/btq-technologies-integrates-qperfect-mimiq-quantum-emulator-into-qbraid-cloud-platform/)** 
-  _Fri, 30 Oct 2026 23:12:08 +0000_
+* **[Los Alamos and QC Ware Model Correlated Iron Oxides Using Sample-Based Quantum Diagonalization on IBM Hardware](https://quantumcomputingreport.com/los-alamos-and-qc-ware-model-correlated-iron-oxides-using-sample-based-quantum-diagonalization-on-ibm-hardware/)** 
+  _Sat, 31 Oct 2026 14:48:46 +0000_
+
+* **[Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit](https://thequantuminsider.com/2026/10/31/julien-camirand-lemire-nord-quantique-one-cavity-one-error-corrected-qubit/)** 
+  _Sat, 31 Oct 2026 08:00:00 +0000_
 
 * **[Quantum Industry Coalition Highlights Funding Priorities For The National Quantum Initiative Reauthorization Act](https://thequantuminsider.com/2026/10/30/quantum-industry-coalition-highlights-funding-priorities-for-the-national-quantum-initiative-reauthorization-act/)** 
   _Fri, 30 Oct 2026 19:37:04 +0000_
 
 * **[Infleqtion Tests Optical Atomic Clock During US Navy Exercise](https://thequantuminsider.com/2026/10/30/infleqtion-optical-atomic-clock-navy-exercise/)** 
   _Fri, 30 Oct 2026 13:50:41 +0000_
-
-* **[Netpoleon India Partners With QNu Labs on Quantum-Safe Security](https://thequantuminsider.com/2026/10/30/netpoleon-qnu-labs-quantum-safe-security/)** 
-  _Fri, 30 Oct 2026 13:42:42 +0000_
 
 ---
