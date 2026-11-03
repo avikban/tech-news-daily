@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 02, 2026
+# 🚀 Daily Tech Pulse: November 03, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -22,13 +22,13 @@
 * **[Los Alamos and QC Ware Model Correlated Iron Oxides Using Sample-Based Quantum Diagonalization on IBM Hardware](https://quantumcomputingreport.com/los-alamos-and-qc-ware-model-correlated-iron-oxides-using-sample-based-quantum-diagonalization-on-ibm-hardware/)** 
   _Sat, 31 Oct 2026 14:48:46 +0000_
 
-* **[Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit](https://thequantuminsider.com/2026/10/31/julien-camirand-lemire-nord-quantique-one-cavity-one-error-corrected-qubit/)** 
-  _Sat, 31 Oct 2026 08:00:00 +0000_
+* **[Qtonic Quantum Appoints Former NATO Commander as Head of Operations](https://thequantuminsider.com/2026/11/02/former-nato-allied-land-command-chief-qtonic-quantum-coo/)** 
+  _Mon, 02 Nov 2026 15:51:08 +0000_
 
-* **[Quantum Industry Coalition Highlights Funding Priorities For The National Quantum Initiative Reauthorization Act](https://thequantuminsider.com/2026/10/30/quantum-industry-coalition-highlights-funding-priorities-for-the-national-quantum-initiative-reauthorization-act/)** 
-  _Fri, 30 Oct 2026 19:37:04 +0000_
+* **[FAU Researchers Test Quantum Machine Learning for Lung Cancer Prediction](https://thequantuminsider.com/2026/11/02/fau-study-quantum-methods-lung-cancer-prediction/)** 
+  _Mon, 02 Nov 2026 15:41:47 +0000_
 
-* **[Infleqtion Tests Optical Atomic Clock During US Navy Exercise](https://thequantuminsider.com/2026/10/30/infleqtion-optical-atomic-clock-navy-exercise/)** 
-  _Fri, 30 Oct 2026 13:50:41 +0000_
+* **[How Many Qubits Would it Take to Simulate a Holographic Universe?](https://thequantuminsider.com/2026/11/02/how-many-qubits-would-it-take-to-simulate-a-holographic-universe/)** 
+  _Mon, 02 Nov 2026 14:23:25 +0000_
 
 ---
