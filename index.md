@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 03, 2026
+# 🚀 Daily Tech Pulse: November 04, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[University of Stuttgart Deploys Quantum Dot QKD Link Using Frequency Conversion Over Campus Fiber](https://quantumcomputingreport.com/university-of-stuttgart-deploys-quantum-dot-qkd-link-using-frequency-conversion-over-campus-fiber/)** 
-  _Sat, 31 Oct 2026 15:04:57 +0000_
+* **[Universal Quantum Details Iterative Redecode Scheme for Fast Transversal Fault-Tolerant Logic](https://quantumcomputingreport.com/universal-quantum-details-iterative-redecode-scheme-for-fast-transversal-fault-tolerant-logic/)** 
+  _Tue, 03 Nov 2026 15:17:05 +0000_
 
-* **[Chalmers University Demonstrates Hardware-Level Microwave Crosstalk Suppression via Parasitic Capacitance Engineering](https://quantumcomputingreport.com/chalmers-university-demonstrates-hardware-level-microwave-crosstalk-suppression-via-parasitic-capacitance-engineering/)** 
-  _Sat, 31 Oct 2026 14:58:16 +0000_
+* **[Universal Quantum Unveils the iQPU: Foundry-Fabricated Trapped-Ion Processor Engineered for Modular Scaling](https://quantumcomputingreport.com/universal-quantum-unveils-the-iqpu-foundry-fabricated-trapped-ion-processor-engineered-for-modular-scaling/)** 
+  _Tue, 03 Nov 2026 15:08:39 +0000_
 
-* **[Los Alamos and QC Ware Model Correlated Iron Oxides Using Sample-Based Quantum Diagonalization on IBM Hardware](https://quantumcomputingreport.com/los-alamos-and-qc-ware-model-correlated-iron-oxides-using-sample-based-quantum-diagonalization-on-ibm-hardware/)** 
-  _Sat, 31 Oct 2026 14:48:46 +0000_
+* **[Ahead of EU Quantum Act, IQM Calls for Dedicated Qubit Foundries and DARPA-Style Procurement](https://quantumcomputingreport.com/ahead-of-eu-quantum-act-iqm-calls-for-dedicated-qubit-foundries-and-darpa-style-procurement/)** 
+  _Tue, 03 Nov 2026 14:59:26 +0000_
 
-* **[Qtonic Quantum Appoints Former NATO Commander as Head of Operations](https://thequantuminsider.com/2026/11/02/former-nato-allied-land-command-chief-qtonic-quantum-coo/)** 
-  _Mon, 02 Nov 2026 15:51:08 +0000_
+* **[University of Chicago and Toyota Partner on Quantum Research for Future Mobility](https://thequantuminsider.com/2026/11/03/university-chicago-toyota-quantum-research-future-mobility/)** 
+  _Tue, 03 Nov 2026 14:38:04 +0000_
 
-* **[FAU Researchers Test Quantum Machine Learning for Lung Cancer Prediction](https://thequantuminsider.com/2026/11/02/fau-study-quantum-methods-lung-cancer-prediction/)** 
-  _Mon, 02 Nov 2026 15:41:47 +0000_
+* **[EigenOrbit Study Compares 12 Quantum Computing Backends](https://thequantuminsider.com/2026/11/03/eigenorbit-study-compares-12-quantum-computing-backends/)** 
+  _Tue, 03 Nov 2026 14:33:10 +0000_
 
-* **[How Many Qubits Would it Take to Simulate a Holographic Universe?](https://thequantuminsider.com/2026/11/02/how-many-qubits-would-it-take-to-simulate-a-holographic-universe/)** 
-  _Mon, 02 Nov 2026 14:23:25 +0000_
+* **[FirstQFM Says Quantum System Beats Classical Forecasting Benchmarks](https://thequantuminsider.com/2026/11/03/firstqfm-says-quantum-system-beats-classical-forecasting-benchmarks/)** 
+  _Tue, 03 Nov 2026 14:01:10 +0000_
 
 ---
