@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 05, 2026
+# 🚀 Daily Tech Pulse: November 06, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[IBM Quantum and QuICS Deploy AI Agents to Discover Over 500 High-Efficiency Magic-State Factories](https://quantumcomputingreport.com/ibm-quantum-and-quics-deploy-ai-agents-to-discover-over-500-high-efficiency-magic-state-factories/)** 
-  _Wed, 04 Nov 2026 16:20:05 +0000_
+* **[Quantinuum Unveils Nexus Roadmap to Automate Fault-Tolerant Application Deployment Through 2029](https://quantumcomputingreport.com/quantinuum-unveils-nexus-roadmap-to-automate-fault-tolerant-application-deployment-through-2029/)** 
+  _Fri, 06 Nov 2026 01:32:37 +0000_
 
-* **[Qoro Quantum Opens Cloud GPU Simulation Tier to Accelerate Large-Scale Circuit Emulation](https://quantumcomputingreport.com/qoro-quantum-opens-cloud-gpu-simulation-tier-to-accelerate-large-scale-circuit-emulation/)** 
-  _Wed, 04 Nov 2026 16:02:38 +0000_
+* **[Horizon Quantum Signs Letter of Intent to Acquire Entropica Labs for $27 Million](https://quantumcomputingreport.com/horizon-quantum-signs-letter-of-intent-to-acquire-entropica-labs-for-27-million/)** 
+  _Fri, 06 Nov 2026 00:53:55 +0000_
 
-* **[IonQ Completes $1.15B Acquisition of Elisity to Integrate Zero Trust with Quantum Security](https://quantumcomputingreport.com/ionq-completes-1-15b-acquisition-of-elisity-to-integrate-zero-trust-with-quantum-security/)** 
-  _Wed, 04 Nov 2026 15:52:47 +0000_
+* **[IBM, ORNL, and AMD Deploy Co-Located Quantum Error Correction Platform in Poughkeepsie](https://quantumcomputingreport.com/ibm-ornl-and-amd-deploy-co-located-quantum-error-correction-platform-in-poughkeepsie/)** 
+  _Fri, 06 Nov 2026 00:41:31 +0000_
 
-* **[SuperMatics Uses AI to Turn Superconductor Discoveries Into Usable Wire](https://thequantuminsider.com/2026/11/04/supermatics-uses-ai-to-turn-superconductor-discoveries-into-usable-wire/)** 
-  _Wed, 04 Nov 2026 21:44:26 +0000_
+* **[Quantinuum Raises Revenue Outlook After Landing Its Largest Cloud Agreement](https://thequantuminsider.com/2026/11/05/quantinuum-raises-revenue-outlook-after-landing-its-largest-cloud-agreement/)** 
+  _Thu, 05 Nov 2026 22:18:57 +0000_
 
-* **[IonQ Partners With QuantumCT to Expand Quantum Computing Access in Connecticut](https://thequantuminsider.com/2026/11/04/ionq-quantumct-quantum-computing-access-connecticut/)** 
-  _Wed, 04 Nov 2026 18:25:54 +0000_
+* **[IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million](https://thequantuminsider.com/2026/11/05/ionq-raises-revenue-forecast-as-quarterly-sales-climb-to-173-8-million/)** 
+  _Thu, 05 Nov 2026 21:44:40 +0000_
 
-* **[IonQ Completes Acquisition of Zero Trust Security Company Elisity](https://thequantuminsider.com/2026/11/04/ionq-completes-acquisition-zero-trust-security-company-elisity/)** 
-  _Wed, 04 Nov 2026 18:20:27 +0000_
+* **[MTSU Hosts Interstate Hackathon to Expand Quantum Computing Education](https://thequantuminsider.com/2026/11/05/mtsu-multistate-quantum-computing-hackathon-beginners/)** 
+  _Thu, 05 Nov 2026 17:04:38 +0000_
 
 ---
