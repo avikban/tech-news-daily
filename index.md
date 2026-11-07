@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 06, 2026
+# 🚀 Daily Tech Pulse: November 07, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Quantinuum Unveils Nexus Roadmap to Automate Fault-Tolerant Application Deployment Through 2029](https://quantumcomputingreport.com/quantinuum-unveils-nexus-roadmap-to-automate-fault-tolerant-application-deployment-through-2029/)** 
-  _Fri, 06 Nov 2026 01:32:37 +0000_
+* **[NQCC Signs Enterprise Agreement with Phasecraft to Provide Quantum Software via SparQ Access](https://quantumcomputingreport.com/nqcc-signs-enterprise-agreement-with-phasecraft-to-provide-quantum-software-via-sparq-access/)** 
+  _Fri, 06 Nov 2026 22:34:00 +0000_
 
-* **[Horizon Quantum Signs Letter of Intent to Acquire Entropica Labs for $27 Million](https://quantumcomputingreport.com/horizon-quantum-signs-letter-of-intent-to-acquire-entropica-labs-for-27-million/)** 
-  _Fri, 06 Nov 2026 00:53:55 +0000_
+* **[IQM Quantum Computers Reports Q3 2026 Results: Backlog Expands to €102.5M, Q3 Revenue Up 51%, and FY 2026 Guidance Reaffirmed](https://quantumcomputingreport.com/iqm-quantum-computers-reports-q3-2026-results-backlog-expands-to-e102-5m-q3-revenue-up-51-and-fy-2026-guidance-reaffirmed/)** 
+  _Fri, 06 Nov 2026 02:50:20 +0000_
 
-* **[IBM, ORNL, and AMD Deploy Co-Located Quantum Error Correction Platform in Poughkeepsie](https://quantumcomputingreport.com/ibm-ornl-and-amd-deploy-co-located-quantum-error-correction-platform-in-poughkeepsie/)** 
-  _Fri, 06 Nov 2026 00:41:31 +0000_
+* **[IQM and Volkswagen Advance Quantum-Classical AFQMC to Simulate Next-Generation Battery Chemistry](https://quantumcomputingreport.com/iqm-and-volkswagen-advance-quantum-classical-afqmc-to-simulate-next-generation-battery-chemistry/)** 
+  _Fri, 06 Nov 2026 02:46:43 +0000_
 
-* **[Quantinuum Raises Revenue Outlook After Landing Its Largest Cloud Agreement](https://thequantuminsider.com/2026/11/05/quantinuum-raises-revenue-outlook-after-landing-its-largest-cloud-agreement/)** 
-  _Thu, 05 Nov 2026 22:18:57 +0000_
+* **[AI-Assisted Proof Settles Longstanding Question About Quantum Speedups](https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/)** 
+  _Fri, 06 Nov 2026 21:28:02 +0000_
 
-* **[IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million](https://thequantuminsider.com/2026/11/05/ionq-raises-revenue-forecast-as-quarterly-sales-climb-to-173-8-million/)** 
-  _Thu, 05 Nov 2026 21:44:40 +0000_
+* **[University of Cambridge Joins UK Quantum Commercialisation Initiative](https://thequantuminsider.com/2026/11/06/cambridge-uk-quantum-superconnector-commercialisation/)** 
+  _Fri, 06 Nov 2026 18:53:02 +0000_
 
-* **[MTSU Hosts Interstate Hackathon to Expand Quantum Computing Education](https://thequantuminsider.com/2026/11/05/mtsu-multistate-quantum-computing-hackathon-beginners/)** 
-  _Thu, 05 Nov 2026 17:04:38 +0000_
+* **[Pasqal Reports Third-Quarter Revenue Decline as QPU Services Revenue Grows](https://thequantuminsider.com/2026/11/06/pasqal-q3-revenue-decline-services-growth/)** 
+  _Fri, 06 Nov 2026 18:36:58 +0000_
 
 ---
