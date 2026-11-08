@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 07, 2026
+# 🚀 Daily Tech Pulse: November 08, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,14 +13,14 @@
 
 ---
 ## Quantum Updates
-* **[NQCC Signs Enterprise Agreement with Phasecraft to Provide Quantum Software via SparQ Access](https://quantumcomputingreport.com/nqcc-signs-enterprise-agreement-with-phasecraft-to-provide-quantum-software-via-sparq-access/)** 
-  _Fri, 06 Nov 2026 22:34:00 +0000_
+* **[Scottish Widows and Aberdeen Allocate UK Workplace Pension Capital to Oxford Quantum Circuits and Quantum Motion via LTAF](https://quantumcomputingreport.com/scottish-widows-and-aberdeen-allocate-uk-workplace-pension-capital-to-oxford-quantum-circuits-and-quantum-motion-via-ltaf/)** 
+  _Sat, 07 Nov 2026 20:39:51 +0000_
 
-* **[IQM Quantum Computers Reports Q3 2026 Results: Backlog Expands to €102.5M, Q3 Revenue Up 51%, and FY 2026 Guidance Reaffirmed](https://quantumcomputingreport.com/iqm-quantum-computers-reports-q3-2026-results-backlog-expands-to-e102-5m-q3-revenue-up-51-and-fy-2026-guidance-reaffirmed/)** 
-  _Fri, 06 Nov 2026 02:50:20 +0000_
+* **[UK Financial Conduct Authority Launches Quantum Experimentation Group to Evaluate Financial Crime Detection](https://quantumcomputingreport.com/uk-financial-conduct-authority-launches-quantum-experimentation-group-to-evaluate-financial-crime-detection/)** 
+  _Sat, 07 Nov 2026 20:19:23 +0000_
 
-* **[IQM and Volkswagen Advance Quantum-Classical AFQMC to Simulate Next-Generation Battery Chemistry](https://quantumcomputingreport.com/iqm-and-volkswagen-advance-quantum-classical-afqmc-to-simulate-next-generation-battery-chemistry/)** 
-  _Fri, 06 Nov 2026 02:46:43 +0000_
+* **[Adelaide University Engineers Synthetic Area Spread to Unlock High-Sensitivity Absolute Quantum Magnetometers](https://quantumcomputingreport.com/adelaide-university-engineers-synthetic-area-spread-to-unlock-high-sensitivity-absolute-quantum-magnetometers/)** 
+  _Sat, 07 Nov 2026 20:11:28 +0000_
 
 * **[AI-Assisted Proof Settles Longstanding Question About Quantum Speedups](https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/)** 
   _Fri, 06 Nov 2026 21:28:02 +0000_
