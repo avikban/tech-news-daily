@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 08, 2026
+# 🚀 Daily Tech Pulse: November 09, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,14 +13,14 @@
 
 ---
 ## Quantum Updates
-* **[Scottish Widows and Aberdeen Allocate UK Workplace Pension Capital to Oxford Quantum Circuits and Quantum Motion via LTAF](https://quantumcomputingreport.com/scottish-widows-and-aberdeen-allocate-uk-workplace-pension-capital-to-oxford-quantum-circuits-and-quantum-motion-via-ltaf/)** 
-  _Sat, 07 Nov 2026 20:39:51 +0000_
+* **[Riverlane Demonstrates Data-Driven DEM Augmentation to Reduce Surface-Code Logical Errors](https://quantumcomputingreport.com/riverlane-demonstrates-data-driven-dem-augmentation-to-reduce-surface-code-logical-errors/)** 
+  _Sun, 08 Nov 2026 03:48:31 +0000_
 
-* **[UK Financial Conduct Authority Launches Quantum Experimentation Group to Evaluate Financial Crime Detection](https://quantumcomputingreport.com/uk-financial-conduct-authority-launches-quantum-experimentation-group-to-evaluate-financial-crime-detection/)** 
-  _Sat, 07 Nov 2026 20:19:23 +0000_
+* **[Who’s News: Strategic Appointments at Quantum eMotion, Qtonic Quantum, Chicago Quantum Exchange, and Equal1](https://quantumcomputingreport.com/whos-news-strategic-appointments-at-quantum-emotion-qtonic-quantum-chicago-quantum-exchange-and-equal1/)** 
+  _Sun, 08 Nov 2026 03:31:22 +0000_
 
-* **[Adelaide University Engineers Synthetic Area Spread to Unlock High-Sensitivity Absolute Quantum Magnetometers](https://quantumcomputingreport.com/adelaide-university-engineers-synthetic-area-spread-to-unlock-high-sensitivity-absolute-quantum-magnetometers/)** 
-  _Sat, 07 Nov 2026 20:11:28 +0000_
+* **[CO.LAB Selects Four Startups for Inaugural CO.LAB Q Commercialization Studio in Chattanooga](https://quantumcomputingreport.com/co-lab-selects-four-startups-for-inaugural-co-lab-q-commercialization-studio-in-chattanooga/)** 
+  _Sat, 07 Nov 2026 21:11:48 +0000_
 
 * **[AI-Assisted Proof Settles Longstanding Question About Quantum Speedups](https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/)** 
   _Fri, 06 Nov 2026 21:28:02 +0000_
