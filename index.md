@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 11, 2026
+# 🚀 Daily Tech Pulse: November 12, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Diraq Installs Silicon Spin Quantum Computer in Equinix Commercial Data Center](https://quantumcomputingreport.com/diraq-installs-silicon-spin-quantum-computer-in-equinix-commercial-data-center/)** 
-  _Wed, 11 Nov 2026 00:24:10 +0000_
+* **[Q-CTRL Deploys Fire Opal Dynamics Simulator on IBM Quantum Functions, Achieving 12× Speedup on Nighthawk](https://quantumcomputingreport.com/q-ctrl-deploys-fire-opal-dynamics-simulator-on-ibm-quantum-functions-achieving-12x-speedup-on-nighthawk/)** 
+  _Thu, 12 Nov 2026 04:27:04 +0000_
 
-* **[University of Chicago and Tohoku University Establish Joint Quantum Materials Hub in Japan](https://quantumcomputingreport.com/university-of-chicago-and-tohoku-university-establish-joint-quantum-materials-hub-in-japan/)** 
-  _Wed, 11 Nov 2026 00:11:25 +0000_
+* **[Q-CTRL Expands Fire Opal Suite with Constrained Optimization, Estimator Twirling, and Monte Carlo Solver](https://quantumcomputingreport.com/q-ctrl-expands-fire-opal-suite-with-constrained-optimization-estimator-twirling-and-monte-carlo-solver/)** 
+  _Thu, 12 Nov 2026 04:15:56 +0000_
 
-* **[Google DeepMind and Google Quantum AI Use Lean 4 to Discover Formally Verified Quantum Algorithms](https://quantumcomputingreport.com/google-deepmind-and-google-quantum-ai-use-lean-4-to-discover-formally-verified-quantum-algorithms/)** 
-  _Tue, 10 Nov 2026 23:58:33 +0000_
+* **[Q-CTRL Demonstrates Push-Button Cold-Start Calibration on QuantWare Superconducting QPUs](https://quantumcomputingreport.com/q-ctrl-demonstrates-push-button-cold-start-calibration-on-quantware-superconducting-qpus/)** 
+  _Thu, 12 Nov 2026 02:20:58 +0000_
 
-* **[Fermilab and CERN Begin Installation Work on DUNE Neutrino Experiment](https://thequantuminsider.com/2026/11/10/construction-begins-dune-underground-neutrino-detector-cryostats/)** 
-  _Tue, 10 Nov 2026 18:31:40 +0000_
+* **[NTHU Researchers Identify Quantum Critical Point in Cuprate Superconductors](https://thequantuminsider.com/2026/11/11/nthu-researchers-identify-quantum-critical-point-cuprate-superconductors/)** 
+  _Wed, 11 Nov 2026 18:15:51 +0000_
 
-* **[QuiX Quantum Leads National Mission to Develop 100+ Qubit Photonic Quantum Computer](https://thequantuminsider.com/2026/11/10/quix-quantum-leads-national-mission-100-qubit-photonic-quantum-computer/)** 
-  _Tue, 10 Nov 2026 18:23:52 +0000_
+* **[Patero and Horizen Labs Collaborate to Help Organizations Prepare for Post-Quantum Security](https://thequantuminsider.com/2026/11/11/patero-horizen-labs-post-quantum-security-migration/)** 
+  _Wed, 11 Nov 2026 17:01:18 +0000_
 
-* **[QuEra, Harvard and Anthropic Use AI to Reduce Quantum Circuit Resource Requirements](https://thequantuminsider.com/2026/11/10/quera-harvard-anthropic-ai-quantum-circuit-resource-requirements/)** 
-  _Tue, 10 Nov 2026 18:10:47 +0000_
+* **[Researchers Explore Quantum Inspired AI Repair](https://thequantuminsider.com/2026/11/11/researchers-explore-quantum-inspired-ai-repair/)** 
+  _Wed, 11 Nov 2026 15:48:13 +0000_
 
 ---
