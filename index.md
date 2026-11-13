@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 12, 2026
+# 🚀 Daily Tech Pulse: November 13, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Q-CTRL Deploys Fire Opal Dynamics Simulator on IBM Quantum Functions, Achieving 12× Speedup on Nighthawk](https://quantumcomputingreport.com/q-ctrl-deploys-fire-opal-dynamics-simulator-on-ibm-quantum-functions-achieving-12x-speedup-on-nighthawk/)** 
-  _Thu, 12 Nov 2026 04:27:04 +0000_
+* **[Qunova Computing Achieves Chemical Accuracy at 80 Qubits on Iron-Sulfur Cluster Using IBM Quantum System Two and Fugaku](https://quantumcomputingreport.com/qunova-computing-achieves-chemical-accuracy-at-80-qubits-on-iron-sulfur-cluster-using-ibm-quantum-system-two-and-fugaku/)** 
+  _Fri, 13 Nov 2026 03:02:16 +0000_
 
-* **[Q-CTRL Expands Fire Opal Suite with Constrained Optimization, Estimator Twirling, and Monte Carlo Solver](https://quantumcomputingreport.com/q-ctrl-expands-fire-opal-suite-with-constrained-optimization-estimator-twirling-and-monte-carlo-solver/)** 
-  _Thu, 12 Nov 2026 04:15:56 +0000_
+* **[Cleveland Clinic, RIKEN, and IBM Cross 12,000-Atom Barrier in Heterogeneous Quantum-Classical Drug Binding Simulations](https://quantumcomputingreport.com/cleveland-clinic-riken-and-ibm-cross-12000-atom-barrier-in-heterogeneous-quantum-classical-drug-binding-simulations/)** 
+  _Fri, 13 Nov 2026 03:01:11 +0000_
 
-* **[Q-CTRL Demonstrates Push-Button Cold-Start Calibration on QuantWare Superconducting QPUs](https://quantumcomputingreport.com/q-ctrl-demonstrates-push-button-cold-start-calibration-on-quantware-superconducting-qpus/)** 
-  _Thu, 12 Nov 2026 02:20:58 +0000_
+* **[LTM Becomes First Global Systems Integrator to Launch Function in IBM Quantum Functions Catalog with AI-QEM](https://quantumcomputingreport.com/ltm-becomes-first-global-systems-integrator-to-launch-function-in-ibm-quantum-functions-catalog-with-ai-qem/)** 
+  _Fri, 13 Nov 2026 02:37:56 +0000_
 
-* **[NTHU Researchers Identify Quantum Critical Point in Cuprate Superconductors](https://thequantuminsider.com/2026/11/11/nthu-researchers-identify-quantum-critical-point-cuprate-superconductors/)** 
-  _Wed, 11 Nov 2026 18:15:51 +0000_
+* **[The Geometry of Quantum Memory: How Anyons Rewrite the Rules of Remembering and Computation in the Quantum Realm](https://thequantuminsider.com/2026/11/13/the-geometry-of-quantum-memory-how-anyons-rewrite-the-rules-of-remembering-and-computation-in-the-quantum-realm/)** 
+  _Fri, 13 Nov 2026 02:40:00 +0000_
 
-* **[Patero and Horizen Labs Collaborate to Help Organizations Prepare for Post-Quantum Security](https://thequantuminsider.com/2026/11/11/patero-horizen-labs-post-quantum-security-migration/)** 
-  _Wed, 11 Nov 2026 17:01:18 +0000_
+* **[Train the Trainer: Inside MAHE’s Hardware-First Bet on Quantum](https://thequantuminsider.com/2026/11/12/train-the-trainer-inside-mahes-hardware-first-bet-on-quantum/)** 
+  _Thu, 12 Nov 2026 17:51:35 +0000_
 
-* **[Researchers Explore Quantum Inspired AI Repair](https://thequantuminsider.com/2026/11/11/researchers-explore-quantum-inspired-ai-repair/)** 
-  _Wed, 11 Nov 2026 15:48:13 +0000_
+* **[Haiqu Appoints Kortny Rolston-Duce to Lead Ecosystem Development and Marketing](https://thequantuminsider.com/2026/11/12/haiqu-appoints-kortny-rolston-duce-ecosystem-development-marketing/)** 
+  _Thu, 12 Nov 2026 16:19:28 +0000_
 
 ---
