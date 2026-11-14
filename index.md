@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 13, 2026
+# 🚀 Daily Tech Pulse: November 14, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Qunova Computing Achieves Chemical Accuracy at 80 Qubits on Iron-Sulfur Cluster Using IBM Quantum System Two and Fugaku](https://quantumcomputingreport.com/qunova-computing-achieves-chemical-accuracy-at-80-qubits-on-iron-sulfur-cluster-using-ibm-quantum-system-two-and-fugaku/)** 
-  _Fri, 13 Nov 2026 03:02:16 +0000_
+* **[Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Agreement for Fault-Tolerant Quantum Systems](https://quantumcomputingreport.com/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-agreement-for-fault-tolerant-quantum-systems/)** 
+  _Fri, 13 Nov 2026 23:12:07 +0000_
 
-* **[Cleveland Clinic, RIKEN, and IBM Cross 12,000-Atom Barrier in Heterogeneous Quantum-Classical Drug Binding Simulations](https://quantumcomputingreport.com/cleveland-clinic-riken-and-ibm-cross-12000-atom-barrier-in-heterogeneous-quantum-classical-drug-binding-simulations/)** 
-  _Fri, 13 Nov 2026 03:01:11 +0000_
+* **[German Aerospace Center (DLR) Researchers Demonstrate Low-Cost Benchmarked-Noise Error Mitigation Across 100-Qubit IBM and IQM Processors](https://quantumcomputingreport.com/german-aerospace-center-dlr-researchers-demonstrate-low-cost-benchmarked-noise-error-mitigation-across-100-qubit-ibm-and-iqm-processors/)** 
+  _Fri, 13 Nov 2026 22:55:15 +0000_
 
-* **[LTM Becomes First Global Systems Integrator to Launch Function in IBM Quantum Functions Catalog with AI-QEM](https://quantumcomputingreport.com/ltm-becomes-first-global-systems-integrator-to-launch-function-in-ibm-quantum-functions-catalog-with-ai-qem/)** 
-  _Fri, 13 Nov 2026 02:37:56 +0000_
+* **[QodeX Quantum, NVIDIA, RTX BBN, and U.S. Navy Researchers Forecast Unstructured PDEs on 52-Qubit IBM Hardware](https://quantumcomputingreport.com/qodex-quantum-nvidia-rtx-bbn-and-u-s-navy-researchers-forecast-unstructured-pdes-on-52-qubit-ibm-hardware/)** 
+  _Fri, 13 Nov 2026 22:22:38 +0000_
 
-* **[The Geometry of Quantum Memory: How Anyons Rewrite the Rules of Remembering and Computation in the Quantum Realm](https://thequantuminsider.com/2026/11/13/the-geometry-of-quantum-memory-how-anyons-rewrite-the-rules-of-remembering-and-computation-in-the-quantum-realm/)** 
-  _Fri, 13 Nov 2026 02:40:00 +0000_
+* **[Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Award](https://thequantuminsider.com/2026/11/13/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-award/)** 
+  _Fri, 13 Nov 2026 18:36:11 +0000_
 
-* **[Train the Trainer: Inside MAHE’s Hardware-First Bet on Quantum](https://thequantuminsider.com/2026/11/12/train-the-trainer-inside-mahes-hardware-first-bet-on-quantum/)** 
-  _Thu, 12 Nov 2026 17:51:35 +0000_
+* **[U.S. Quantum Ambitions Face a Supply Chain Test, Policy Analysts Warn](https://thequantuminsider.com/2026/11/13/u-s-quantum-ambitions-face-a-supply-chain-test-policy-analysts-warn/)** 
+  _Fri, 13 Nov 2026 16:17:23 +0000_
 
-* **[Haiqu Appoints Kortny Rolston-Duce to Lead Ecosystem Development and Marketing](https://thequantuminsider.com/2026/11/12/haiqu-appoints-kortny-rolston-duce-ecosystem-development-marketing/)** 
-  _Thu, 12 Nov 2026 16:19:28 +0000_
+* **[Classical Light Dynamics Could Help Simulate Quantum Interactions](https://thequantuminsider.com/2026/11/13/classical-light-dynamics-could-help-simulate-quantum-interactions/)** 
+  _Fri, 13 Nov 2026 09:01:36 +0000_
 
 ---
