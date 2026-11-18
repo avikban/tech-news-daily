@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 17, 2026
+# 🚀 Daily Tech Pulse: November 18, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Q-CTRL Unifies Boulder Opal and Fire Opal into Autonomous End-to-End Quantum Infrastructure Software](https://quantumcomputingreport.com/q-ctrl-unifies-boulder-opal-and-fire-opal-into-autonomous-end-to-end-quantum-infrastructure-software/)** 
-  _Tue, 17 Nov 2026 03:28:49 +0000_
+* **[SAXON Q Introduces Patented Quantum Watchdog System for Runtime QPU Fault Detection](https://quantumcomputingreport.com/saxon-q-introduces-patented-quantum-watchdog-system-for-runtime-qpu-fault-detection/)** 
+  _Wed, 18 Nov 2026 02:56:21 +0000_
 
-* **[Alice & Bob Details QRMI and Slurm 26.11 Hierarchical Resource Integration for Cat-Qubit Systems at SC26](https://quantumcomputingreport.com/alice-bob-details-qrmi-and-slurm-26-11-hierarchical-resource-integration-for-cat-qubit-systems-at-sc26/)** 
-  _Tue, 17 Nov 2026 02:42:33 +0000_
+* **[IQM and AMD Demonstrate Reproducible Hybrid QPU-GPU Chemistry Workflow Using ROCm](https://quantumcomputingreport.com/iqm-and-amd-demonstrate-reproducible-hybrid-qpu-gpu-chemistry-workflow-using-rocm/)** 
+  _Wed, 18 Nov 2026 02:33:38 +0000_
 
-* **[Quantinuum Details Nexus Hybrid Workflow Runtime Integration with Slurm and OpenQSE at SC26](https://quantumcomputingreport.com/quantinuum-details-nexus-hybrid-workflow-runtime-integration-with-slurm-and-openqse-at-sc26/)** 
-  _Tue, 17 Nov 2026 02:15:57 +0000_
+* **[IQM Researchers Benchmark Projected Quantum Kernels Across 45 Qubits Using Cross-Device Referee-Challenger Protocol](https://quantumcomputingreport.com/iqm-researchers-benchmark-projected-quantum-kernels-across-45-qubits-using-cross-device-referee-challenger-protocol/)** 
+  _Wed, 18 Nov 2026 02:18:11 +0000_
 
-* **[GenQ Emerges From Stealth to Commercialize Quantum Measurement Technology](https://thequantuminsider.com/2026/11/16/genq-emerges-from-stealth-to-commercialize-quantum-measurement-technology/)** 
-  _Mon, 16 Nov 2026 20:48:53 +0000_
+* **[IQM Introduces Upgrade Programme for Halocene Quantum Systems](https://thequantuminsider.com/2026/11/17/iqm-halocene-quantum-systems-upgrade-programme/)** 
+  _Tue, 17 Nov 2026 19:34:26 +0000_
 
-* **[From First-Timers to PhDs: 1,000+ Builders Take on Quantum at the Qollab × IonQ Hackathon](https://thequantuminsider.com/2026/11/16/from-first-timers-to-phds-1000-builders-take-on-quantum-at-the-qollab-x-ionq-hackathon/)** 
-  _Mon, 16 Nov 2026 18:21:45 +0000_
+* **[Q.ANT Demonstrates Hybrid Photonic-GPU System for Language Models](https://thequantuminsider.com/2026/11/17/q-ant-demonstrates-hybrid-photonic-gpu-system-for-language-models/)** 
+  _Tue, 17 Nov 2026 17:47:39 +0000_
 
-* **[AQSolotl Reports 6.94-Microsecond Latency in NVIDIA NVQLink Integration Test](https://thequantuminsider.com/2026/11/16/aqsolotl-6-94-microsecond-latency-nvidia-nvqlink-test/)** 
-  _Mon, 16 Nov 2026 18:02:01 +0000_
+* **[SAXON Q Announces ‘Quantum Watchdog,’ to Detect When Quantum Computers Fail](https://thequantuminsider.com/2026/11/17/saxon-q-announces-quantum-watchdog-to-detect-when-quantum-computers-fail/)** 
+  _Tue, 17 Nov 2026 15:40:15 +0000_
 
 ---
