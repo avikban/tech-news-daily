@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 19, 2026
+# 🚀 Daily Tech Pulse: November 20, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Qatar and France Sign Bilateral Letter of Intent on Digital Cooperation Highlighting Shared Quantum Ambitions](https://quantumcomputingreport.com/qatar-and-france-sign-bilateral-letter-of-intent-on-digital-cooperation-highlighting-shared-quantum-ambitions/)** 
-  _Wed, 18 Nov 2026 17:39:03 +0000_
+* **[UCLA Researchers Model Collectively Enhanced Superconducting-Qubit Interfaces for Microwave-to-Optical Transduction](https://quantumcomputingreport.com/ucla-researchers-model-collectively-enhanced-superconducting-qubit-interfaces-for-microwave-to-optical-transduction/)** 
+  _Fri, 20 Nov 2026 01:19:13 +0000_
 
-* **[Quandela and NVIDIA Benchmark Photonic Quantum Simulability Frontiers on H100 GPUs](https://quantumcomputingreport.com/quandela-and-nvidia-benchmark-photonic-quantum-simulability-frontiers-on-h100-gpus/)** 
-  _Wed, 18 Nov 2026 17:04:11 +0000_
+* **[Researchers Introduce QECLean Framework to Formally Verify Quantum Error-Correcting Codes in Lean 4](https://quantumcomputingreport.com/researchers-introduce-qeclean-framework-to-formally-verify-quantum-error-correcting-codes-in-lean-4/)** 
+  _Fri, 20 Nov 2026 01:11:39 +0000_
 
-* **[Quandela Expands International Photonic Footprint with Deployment Alliance in Qatar and Foundry MoU in Taiwan](https://quantumcomputingreport.com/quandela-expands-international-photonic-footprint-with-deployment-alliance-in-qatar-and-foundry-mou-in-taiwan/)** 
-  _Wed, 18 Nov 2026 17:00:59 +0000_
+* **[memQ and Infleqtion Sign MoU to Validate Quantum Networking Interoperability for Distributed Neutral-Atom Systems](https://quantumcomputingreport.com/memq-and-infleqtion-sign-mou-to-validate-quantum-networking-interoperability-for-distributed-neutral-atom-systems/)** 
+  _Fri, 20 Nov 2026 01:04:26 +0000_
 
-* **[Guest Post — The 2026 Finance Quantum Index: Recognizing the Leaders Advancing Quantum in Finance](https://thequantuminsider.com/2026/11/18/guest-post-the-2026-finance-quantum-index-recognizing-the-leaders-advancing-quantum-in-finance/)** 
-  _Wed, 18 Nov 2026 22:34:26 +0000_
+* **[Google’s Quantum Chip Beats Classical Limits in Tests of Teamwork](https://thequantuminsider.com/2026/11/19/googles-quantum-chip-beats-classical-limits-in-tests-of-teamwork/)** 
+  _Thu, 19 Nov 2026 20:31:49 +0000_
 
-* **[Quantum Physics Can Verify a Person’s Location, NIST Researchers Show](https://thequantuminsider.com/2026/11/18/quantum-physics-can-verify-a-persons-location-nist-researchers-show/)** 
-  _Wed, 18 Nov 2026 18:06:57 +0000_
+* **[Delta Gold Launches Dedicated Quantum Sensing Program](https://thequantuminsider.com/2026/11/19/delta-gold-launches-dedicated-quantum-sensing-program/)** 
+  _Thu, 19 Nov 2026 17:12:49 +0000_
 
-* **[QuEra Computing and Berkeley Lab Publish Nature Study of Quantum Dynamics on Up to 180 Qubits](https://thequantuminsider.com/2026/11/18/quera-berkeley-lab-study-quantum-dynamics-aquila/)** 
-  _Wed, 18 Nov 2026 17:03:12 +0000_
+* **[Students Use Quantum Computing to Address Electric Grid Challenges at Tennessee Hackathon](https://thequantuminsider.com/2026/11/19/students-new-to-quantum-real-technology-power-grid-tennessee-hackathon/)** 
+  _Thu, 19 Nov 2026 16:16:38 +0000_
 
 ---
