@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 20, 2026
+# 🚀 Daily Tech Pulse: November 21, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[UCLA Researchers Model Collectively Enhanced Superconducting-Qubit Interfaces for Microwave-to-Optical Transduction](https://quantumcomputingreport.com/ucla-researchers-model-collectively-enhanced-superconducting-qubit-interfaces-for-microwave-to-optical-transduction/)** 
-  _Fri, 20 Nov 2026 01:19:13 +0000_
+* **[International Consortium Demonstrates 8,000-km Hybrid QKD and Post-Quantum Network Linking Europe and the U.S. at SC26](https://quantumcomputingreport.com/international-consortium-demonstrates-8000-km-hybrid-qkd-and-post-quantum-network-linking-europe-and-the-u-s-at-sc26/)** 
+  _Sat, 21 Nov 2026 04:29:01 +0000_
 
-* **[Researchers Introduce QECLean Framework to Formally Verify Quantum Error-Correcting Codes in Lean 4](https://quantumcomputingreport.com/researchers-introduce-qeclean-framework-to-formally-verify-quantum-error-correcting-codes-in-lean-4/)** 
-  _Fri, 20 Nov 2026 01:11:39 +0000_
+* **[SEALSQ Signs Letter of Intent to Acquire Australian Quantum Cybersecurity Firm QuintessenceLabs](https://quantumcomputingreport.com/sealsq-signs-letter-of-intent-to-acquire-australian-quantum-cybersecurity-firm-quintessencelabs/)** 
+  _Sat, 21 Nov 2026 03:59:19 +0000_
 
-* **[memQ and Infleqtion Sign MoU to Validate Quantum Networking Interoperability for Distributed Neutral-Atom Systems](https://quantumcomputingreport.com/memq-and-infleqtion-sign-mou-to-validate-quantum-networking-interoperability-for-distributed-neutral-atom-systems/)** 
-  _Fri, 20 Nov 2026 01:04:26 +0000_
+* **[Plurilock Shareholders Approve Plan of Arrangement for Acquisition by Quantum eMotion](https://quantumcomputingreport.com/plurilock-shareholders-approve-plan-of-arrangement-for-acquisition-by-quantum-emotion/)** 
+  _Fri, 20 Nov 2026 16:40:29 +0000_
 
-* **[Google’s Quantum Chip Beats Classical Limits in Tests of Teamwork](https://thequantuminsider.com/2026/11/19/googles-quantum-chip-beats-classical-limits-in-tests-of-teamwork/)** 
-  _Thu, 19 Nov 2026 20:31:49 +0000_
+* **[10-Member Team Drawn from Chinese Institutions Wins 2026 Gordon Bell Prize](https://thequantuminsider.com/2026/11/20/10-member-team-drawn-from-chinese-institutions-wins-2026-gordon-bell-prize/)** 
+  _Fri, 20 Nov 2026 16:13:55 +0000_
 
-* **[Delta Gold Launches Dedicated Quantum Sensing Program](https://thequantuminsider.com/2026/11/19/delta-gold-launches-dedicated-quantum-sensing-program/)** 
-  _Thu, 19 Nov 2026 17:12:49 +0000_
+* **[How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return](https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/)** 
+  _Fri, 20 Nov 2026 16:05:47 +0000_
 
-* **[Students Use Quantum Computing to Address Electric Grid Challenges at Tennessee Hackathon](https://thequantuminsider.com/2026/11/19/students-new-to-quantum-real-technology-power-grid-tennessee-hackathon/)** 
-  _Thu, 19 Nov 2026 16:16:38 +0000_
+* **[Quantus Launches a Quantum-Secure Cold Wallet That Runs on Any Spare Phone](https://thequantuminsider.com/2026/11/20/quantus-quantum-secure-cold-wallet-spare-phone/)** 
+  _Fri, 20 Nov 2026 12:58:37 +0000_
 
 ---
