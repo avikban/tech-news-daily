@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 22, 2026
+# 🚀 Daily Tech Pulse: November 23, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -22,13 +22,13 @@
 * **[Qubit Pharmaceuticals, Sorbonne Université, and Q-CTRL Demonstrate 3D Protein Hydration-Site Prediction on IBM Heron Processors](https://quantumcomputingreport.com/qubit-pharmaceuticals-sorbonne-universite-and-q-ctrl-demonstrate-3d-protein-hydration-site-prediction-on-ibm-heron-processors/)** 
   _Sat, 21 Nov 2026 08:00:26 +0000_
 
-* **[TQI linking test v15 (delete me)](https://thequantuminsider.com/2026/11/21/__trashed-5/)** 
-  _Sat, 21 Nov 2026 21:45:27 +0000_
-
 * **[10-Member Team Drawn from Chinese Institutions Wins 2026 Gordon Bell Prize](https://thequantuminsider.com/2026/11/20/10-member-team-drawn-from-chinese-institutions-wins-2026-gordon-bell-prize/)** 
   _Fri, 20 Nov 2026 16:13:55 +0000_
 
 * **[How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return](https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/)** 
   _Fri, 20 Nov 2026 16:05:47 +0000_
+
+* **[Quantus Launches a Quantum-Secure Cold Wallet That Runs on Any Spare Phone](https://thequantuminsider.com/2026/11/20/quantus-quantum-secure-cold-wallet-spare-phone/)** 
+  _Fri, 20 Nov 2026 12:58:37 +0000_
 
 ---
