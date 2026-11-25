@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 24, 2026
+# 🚀 Daily Tech Pulse: November 25, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Sorbonne Université and Qubit Pharmaceuticals Introduce VULCAN Hybrid Framework for Scalable Quantum Chemistry](https://quantumcomputingreport.com/sorbonne-universite-and-qubit-pharmaceuticals-introduce-vulcan-hybrid-framework-for-scalable-quantum-chemistry/)** 
-  _Sat, 21 Nov 2026 08:14:48 +0000_
+* **[Forschungszentrum Jülich and ARQUE Systems Secure €35 Million ($38.4 Million USD) to Build 200-Qubit Silicon Spin Quantum Computer](https://quantumcomputingreport.com/forschungszentrum-julich-and-arque-systems-secure-e35-million-38-4-million-usd-to-build-200-qubit-silicon-spin-quantum-computer/)** 
+  _Tue, 24 Nov 2026 23:05:25 +0000_
 
-* **[Qubit Pharmaceuticals and Sorbonne Université Develop Polynomial-Time Lie Algebra Generator Pool Construction for Quantum Chemistry](https://quantumcomputingreport.com/qubit-pharmaceuticals-and-sorbonne-universite-develop-polynomial-time-lie-algebra-generator-pool-construction-for-quantum-chemistry/)** 
-  _Sat, 21 Nov 2026 08:10:01 +0000_
+* **[IonQ Advances Quantum-Assured Navigation and Timing with DARPA Airborne Gravimeter Award and 51-Day Maritime Clock Trial](https://quantumcomputingreport.com/ionq-advances-quantum-assured-navigation-and-timing-with-darpa-airborne-gravimeter-award-and-51-day-maritime-clock-trial/)** 
+  _Tue, 24 Nov 2026 18:02:01 +0000_
 
-* **[Qubit Pharmaceuticals, Sorbonne Université, and Q-CTRL Demonstrate 3D Protein Hydration-Site Prediction on IBM Heron Processors](https://quantumcomputingreport.com/qubit-pharmaceuticals-sorbonne-universite-and-q-ctrl-demonstrate-3d-protein-hydration-site-prediction-on-ibm-heron-processors/)** 
-  _Sat, 21 Nov 2026 08:00:26 +0000_
+* **[IDEMIA Secure Transactions and IonQ Validate QKD Interoperability with IDEMIA Sphere Cybersecurity Platform](https://quantumcomputingreport.com/idemia-secure-transactions-and-ionq-validate-qkd-interoperability-with-idemia-sphere-cybersecurity-platform/)** 
+  _Tue, 24 Nov 2026 17:46:04 +0000_
 
-* **[QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction](https://thequantuminsider.com/2026/11/23/quera-12-million-doe-ai-quantum-error-correction/)** 
-  _Mon, 23 Nov 2026 18:39:43 +0000_
+* **[SEALSQ Expands Quantum Highway Network Across the U.S. and Europe](https://thequantuminsider.com/2026/11/24/sealsq-expands-quantum-highway-network-across-the-u-s-and-europe/)** 
+  _Tue, 24 Nov 2026 14:54:13 +0000_
 
-* **[UNM Hosts First Quantum Industry Day in New Mexico](https://thequantuminsider.com/2026/11/23/unm-first-quantum-industry-day-new-mexico/)** 
-  _Mon, 23 Nov 2026 17:09:31 +0000_
+* **[Quantum Art Appoints Mark Solomon and Tal Inbar to Business Development Roles](https://thequantuminsider.com/2026/11/24/quantum-art-appoints-mark-solomon-tal-inbar-business-development/)** 
+  _Tue, 24 Nov 2026 13:34:16 +0000_
 
-* **[CyberRidge Selected for The Lucrative EIC Award For Innovation In Quantum Security](https://thequantuminsider.com/2026/11/23/cyberridge-european-innovation-council-co-funding/)** 
-  _Mon, 23 Nov 2026 16:13:07 +0000_
+* **[Pasqal Leads European Defence Fund Project on Fault-Tolerant Quantum Computing](https://thequantuminsider.com/2026/11/24/pasqal-leads-european-defence-fund-project-fault-tolerant-quantum-computing/)** 
+  _Tue, 24 Nov 2026 13:33:45 +0000_
 
 ---
