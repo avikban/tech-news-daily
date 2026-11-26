@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 25, 2026
+# 🚀 Daily Tech Pulse: November 26, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Forschungszentrum Jülich and ARQUE Systems Secure €35 Million ($38.4 Million USD) to Build 200-Qubit Silicon Spin Quantum Computer](https://quantumcomputingreport.com/forschungszentrum-julich-and-arque-systems-secure-e35-million-38-4-million-usd-to-build-200-qubit-silicon-spin-quantum-computer/)** 
-  _Tue, 24 Nov 2026 23:05:25 +0000_
+* **[Classiq Updates Qmod Compiler to Synthesize 2048-Bit Shor’s Algorithm in Under 10 Seconds](https://quantumcomputingreport.com/classiq-updates-qmod-compiler-to-synthesize-2048-bit-shors-algorithm-in-under-10-seconds/)** 
+  _Thu, 26 Nov 2026 04:13:57 +0000_
 
-* **[IonQ Advances Quantum-Assured Navigation and Timing with DARPA Airborne Gravimeter Award and 51-Day Maritime Clock Trial](https://quantumcomputingreport.com/ionq-advances-quantum-assured-navigation-and-timing-with-darpa-airborne-gravimeter-award-and-51-day-maritime-clock-trial/)** 
-  _Tue, 24 Nov 2026 18:02:01 +0000_
+* **[University of Sussex and Universal Quantum Demonstrate Laser-Free Axial-Mode Entangling Gate on Doppler-Cooled Trapped Ions](https://quantumcomputingreport.com/university-of-sussex-and-universal-quantum-demonstrate-laser-free-axial-mode-entangling-gate-on-doppler-cooled-trapped-ions/)** 
+  _Thu, 26 Nov 2026 03:58:16 +0000_
 
-* **[IDEMIA Secure Transactions and IonQ Validate QKD Interoperability with IDEMIA Sphere Cybersecurity Platform](https://quantumcomputingreport.com/idemia-secure-transactions-and-ionq-validate-qkd-interoperability-with-idemia-sphere-cybersecurity-platform/)** 
-  _Tue, 24 Nov 2026 17:46:04 +0000_
+* **[Quantum eMotion Completes C$32 Million ($22.5 Million USD) Acquisition of Cybersecurity Provider Plurilock Security](https://quantumcomputingreport.com/quantum-emotion-completes-c32-million-22-5-million-usd-acquisition-of-cybersecurity-provider-plurilock-security/)** 
+  _Thu, 26 Nov 2026 03:53:09 +0000_
 
-* **[SEALSQ Expands Quantum Highway Network Across the U.S. and Europe](https://thequantuminsider.com/2026/11/24/sealsq-expands-quantum-highway-network-across-the-u-s-and-europe/)** 
-  _Tue, 24 Nov 2026 14:54:13 +0000_
+* **[IQM to Deploy 54-Qubit Quantum Computer at South Korean Data Centre](https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/)** 
+  _Wed, 25 Nov 2026 18:08:13 +0000_
 
-* **[Quantum Art Appoints Mark Solomon and Tal Inbar to Business Development Roles](https://thequantuminsider.com/2026/11/24/quantum-art-appoints-mark-solomon-tal-inbar-business-development/)** 
-  _Tue, 24 Nov 2026 13:34:16 +0000_
+* **[QuIC Welcomes the European Quantum Act, Pledges to ‘Mobilize Industry’](https://thequantuminsider.com/2026/11/25/quic-welcomes-the-european-quantum-act-pledges-to-mobilize-industry/)** 
+  _Wed, 25 Nov 2026 14:05:24 +0000_
 
-* **[Pasqal Leads European Defence Fund Project on Fault-Tolerant Quantum Computing](https://thequantuminsider.com/2026/11/24/pasqal-leads-european-defence-fund-project-fault-tolerant-quantum-computing/)** 
-  _Tue, 24 Nov 2026 13:33:45 +0000_
+* **[Guest Post: After DeepMind’s RSA Results, The Case For QKD on Critical Links](https://thequantuminsider.com/2026/11/25/guest-post-after-deepminds-rsa-results-the-case-for-qkd-on-critical-links/)** 
+  _Wed, 25 Nov 2026 12:27:15 +0000_
 
 ---
