@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 26, 2026
+# 🚀 Daily Tech Pulse: November 27, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
+* **[Riverlane and Nature Research Intelligence Release 2026 Quantum Error Correction Report Highlighting Shift to Full-Stack Engineering](https://quantumcomputingreport.com/riverlane-and-nature-research-intelligence-release-2026-quantum-error-correction-report-highlighting-shift-to-full-stack-engineering/)** 
+  _Thu, 26 Nov 2026 05:14:05 +0000_
+
+* **[Equal1, NVIDIA, and Dell Technologies Demonstrate Real-Time Hybrid Quantum-Classical Rack Integration at SC26](https://quantumcomputingreport.com/equal1-nvidia-and-dell-technologies-demonstrate-real-time-hybrid-quantum-classical-rack-integration-at-sc26/)** 
+  _Thu, 26 Nov 2026 04:48:05 +0000_
+
 * **[Classiq Updates Qmod Compiler to Synthesize 2048-Bit Shor’s Algorithm in Under 10 Seconds](https://quantumcomputingreport.com/classiq-updates-qmod-compiler-to-synthesize-2048-bit-shors-algorithm-in-under-10-seconds/)** 
   _Thu, 26 Nov 2026 04:13:57 +0000_
 
-* **[University of Sussex and Universal Quantum Demonstrate Laser-Free Axial-Mode Entangling Gate on Doppler-Cooled Trapped Ions](https://quantumcomputingreport.com/university-of-sussex-and-universal-quantum-demonstrate-laser-free-axial-mode-entangling-gate-on-doppler-cooled-trapped-ions/)** 
-  _Thu, 26 Nov 2026 03:58:16 +0000_
+* **[SAP and planqc Expand Quantum Computing Partnership, Plan Hardware Tests in 2027](https://thequantuminsider.com/2026/11/26/sap-and-planqc-expand-quantum-computing-partnership-plan-hardware-tests-in-2027/)** 
+  _Thu, 26 Nov 2026 14:30:00 +0000_
 
-* **[Quantum eMotion Completes C$32 Million ($22.5 Million USD) Acquisition of Cybersecurity Provider Plurilock Security](https://quantumcomputingreport.com/quantum-emotion-completes-c32-million-22-5-million-usd-acquisition-of-cybersecurity-provider-plurilock-security/)** 
-  _Thu, 26 Nov 2026 03:53:09 +0000_
+* **[Stanford Physicist Uses AI to Tackle Quantum Gravity Problem](https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/)** 
+  _Thu, 26 Nov 2026 12:32:21 +0000_
 
-* **[IQM to Deploy 54-Qubit Quantum Computer at South Korean Data Centre](https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/)** 
-  _Wed, 25 Nov 2026 18:08:13 +0000_
-
-* **[QuIC Welcomes the European Quantum Act, Pledges to ‘Mobilize Industry’](https://thequantuminsider.com/2026/11/25/quic-welcomes-the-european-quantum-act-pledges-to-mobilize-industry/)** 
-  _Wed, 25 Nov 2026 14:05:24 +0000_
-
-* **[Guest Post: After DeepMind’s RSA Results, The Case For QKD on Critical Links](https://thequantuminsider.com/2026/11/25/guest-post-after-deepminds-rsa-results-the-case-for-qkd-on-critical-links/)** 
-  _Wed, 25 Nov 2026 12:27:15 +0000_
+* **[European Quantum Community Reacts to New Quantum Strategy](https://thequantuminsider.com/2026/11/26/european-quantum-community-reacts-to-new-quantum-strategy/)** 
+  _Thu, 26 Nov 2026 09:40:04 +0000_
 
 ---
