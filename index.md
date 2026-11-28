@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: November 27, 2026
+# 🚀 Daily Tech Pulse: November 28, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,22 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[Riverlane and Nature Research Intelligence Release 2026 Quantum Error Correction Report Highlighting Shift to Full-Stack Engineering](https://quantumcomputingreport.com/riverlane-and-nature-research-intelligence-release-2026-quantum-error-correction-report-highlighting-shift-to-full-stack-engineering/)** 
-  _Thu, 26 Nov 2026 05:14:05 +0000_
+* **[QuTech Coordinates €47.5 Million ($52 Million USD) European Quantum Internet Alliance Phase to Build Full-Stack Prototype](https://quantumcomputingreport.com/qutech-coordinates-e47-5-million-52-million-usd-european-quantum-internet-alliance-phase-to-build-full-stack-prototype/)** 
+  _Sat, 28 Nov 2026 02:40:53 +0000_
 
-* **[Equal1, NVIDIA, and Dell Technologies Demonstrate Real-Time Hybrid Quantum-Classical Rack Integration at SC26](https://quantumcomputingreport.com/equal1-nvidia-and-dell-technologies-demonstrate-real-time-hybrid-quantum-classical-rack-integration-at-sc26/)** 
-  _Thu, 26 Nov 2026 04:48:05 +0000_
+* **[Dutch HAIQ Consortium Awarded €7.4 Million ($8.1 Million USD) NWO Grant to Combine Human Intuition and AI for Quantum Control and Circuit Optimization](https://quantumcomputingreport.com/dutch-haiq-consortium-awarded-e7-4-million-8-1-million-usd-nwo-grant-to-combine-human-intuition-and-ai-for-quantum-control-and-circuit-optimization/)** 
+  _Sat, 28 Nov 2026 02:33:50 +0000_
 
-* **[Classiq Updates Qmod Compiler to Synthesize 2048-Bit Shor’s Algorithm in Under 10 Seconds](https://quantumcomputingreport.com/classiq-updates-qmod-compiler-to-synthesize-2048-bit-shors-algorithm-in-under-10-seconds/)** 
-  _Thu, 26 Nov 2026 04:13:57 +0000_
+* **[TU Delft Demonstrates First Hybrid HPC-Quantum Workflow Linking DelftBlue Supercomputer and Tuna-17 Processor](https://quantumcomputingreport.com/tu-delft-demonstrates-first-hybrid-hpc-quantum-workflow-linking-delftblue-supercomputer-and-tuna-17-processor/)** 
+  _Sat, 28 Nov 2026 02:19:12 +0000_
 
-* **[SAP and planqc Expand Quantum Computing Partnership, Plan Hardware Tests in 2027](https://thequantuminsider.com/2026/11/26/sap-and-planqc-expand-quantum-computing-partnership-plan-hardware-tests-in-2027/)** 
-  _Thu, 26 Nov 2026 14:30:00 +0000_
+* **[Quantum Computing 101: Can a Cat be Alive and Dead at The Same Time?](https://thequantuminsider.com/2026/11/27/quantum-computing-101-can-a-cat-be-alive-and-dead-at-the-same-time/)** 
+  _Fri, 27 Nov 2026 16:51:24 +0000_
 
-* **[Stanford Physicist Uses AI to Tackle Quantum Gravity Problem](https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/)** 
-  _Thu, 26 Nov 2026 12:32:21 +0000_
+* **[Gyeonggi Province Holds Forum on Quantum and Semiconductor Industry Cooperation](https://thequantuminsider.com/2026/11/27/gyeonggi-province-quantum-industry-development-forum/)** 
+  _Fri, 27 Nov 2026 16:07:06 +0000_
 
-* **[European Quantum Community Reacts to New Quantum Strategy](https://thequantuminsider.com/2026/11/26/european-quantum-community-reacts-to-new-quantum-strategy/)** 
-  _Thu, 26 Nov 2026 09:40:04 +0000_
+* **[Equal1 Selected to Advance in EIC STEP Scale Up Program For Potential Equity Investment of up to €30 Million](https://thequantuminsider.com/2026/11/27/equal1-selected-to-advance-in-eic-step-scale-up-program-for-potential-equity-investment-of-up-to-e30-million/)** 
+  _Fri, 27 Nov 2026 15:13:24 +0000_
 
 ---
